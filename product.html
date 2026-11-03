@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+{% block title %}{{ p.ten }}{% endblock %}
+{% block content %}
+<p><a href="{{ url_for('catalog') }}">← Danh sách</a></p>
+<article class="card detail">
+  <div>{% for im in p.img %}<img src="{{ url_for('static', filename='img/' ~ im) }}" alt="{{ p.ten }}">{% endfor %}</div>
+  <div>
+    <small>{{ p.id }}</small>
+    <h1>{{ p.ten }}</h1>
+    <p>{{ p.mo_ta }}</p>
+    <table>
+      <tr><th>Ngân sách</th><td>{{ p.ngan_sach }}</td></tr>
+      <tr><th>Số người sử dụng</th><td>{{ p.so_nguoi }}</td></tr>
+      <tr><th>Nguồn nước đầu vào</th><td>{{ p.nguon_nuoc }}</td></tr>
+      <tr><th>Vị trí lắp đặt</th><td>{{ p.vi_tri }}</td></tr>
+      <tr><th>Nhu cầu sử dụng</th><td>{{ p.nhu_cau }}</td></tr>
+      <tr><th>Hãng sản xuất</th><td>{{ p.hang }}</td></tr>
+      <tr><th>Công nghệ lọc</th><td>{{ p.cong_nghe }}</td></tr>
+      <tr><th>Bảo trì</th><td>{{ p.bao_tri }}</td></tr>
+      <tr><th>Số vòi nước</th><td>{{ p.so_voi }}</td></tr>
+    </table>
+    <p><a href="{{ url_for('rules_page', sp=p.id) }}">Xem {{ rules|length }} luật dẫn tới máy này →</a></p>
+  </div>
+</article>
+{% endblock %}

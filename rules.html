@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+{% block title %}Tập luật{% endblock %}
+{% block content %}
+<h1>Tập luật ({{ rules|length }})</h1>
+<form method="get" class="card inline">
+  <label>Lọc theo máy:
+    <select name="sp" onchange="this.form.submit()">
+      <option value="">Tất cả</option>
+      {% for k, p in products.items() %}<option value="{{ k }}" {% if k==sel %}selected{% endif %}>{{ k }} – {{ p.ten }}</option>{% endfor %}
+    </select>
+  </label>
+</form>
+{% for r in rules %}
+<div class="card rule-card">
+  <b>Luật {{ r.id }}.</b> {{ r.dien_giai }}
+  <br><code>{{ r.dk | join(' ⋀ ') }} → {{ r.kq }}</code>
+</div>
+{% endfor %}
+{% endblock %}

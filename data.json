@@ -1,0 +1,5467 @@
+{
+ "products": {
+  "SP1": {
+   "id": "SP1",
+   "ten": "Máy lọc nước Kangaroo KG14K6H1",
+   "img": [
+    "sp1_1.jpeg"
+   ],
+   "mo_ta": "Máy lọc nước Kangaroo KG14K6H1 có thiết kế lắp âm gầm tủ bếp, giúp tiết kiệm diện tích và tối ưu không gian sử dụng. Máy ứng dụng công nghệ lọc RO Vortex kết hợp hệ thống 14 lõi lọc và công nghệ tạo Hydrogen. Sản phẩm đáp ứng nhu cầu cung cấp nước sạch phục vụ ăn uống hằng ngày. Thiết kế nhỏ gọn phù hợp với không gian bếp gia đình hiện đại.",
+   "ngan_sach": "Trên 5 triệu đồng.",
+   "so_nguoi": "Phù hợp tham khảo cho gia đình 3–5 người.",
+   "nguon_nuoc": "Nước máy; nguồn nước khác cần được đánh giá trước khi sử dụng.",
+   "vi_tri": "Dưới bồn rửa, tiết kiệm diện tích.",
+   "nhu_cau": "Lọc nước uống và nấu ăn, phù hợp người có nhu cầu sử dụng nước Hydrogen.",
+   "hang": "Kangaroo.",
+   "cong_nghe": "RO Vortex, hệ thống 14 lõi lọc.",
+   "bao_tri": "Cần thay lõi định kỳ; nên kiểm tra chi phí thay lõi trước khi mua.",
+   "so_voi": "1 vòi (Cung cấp 1 chế độ nước uống Hydrogen mát lành tại vòi)"
+  },
+  "SP2": {
+   "id": "SP2",
+   "ten": "Máy lọc nước Kangaroo KG14S6H3",
+   "img": [
+    "sp2_1.jpeg"
+   ],
+   "mo_ta": "Máy lọc nước Kangaroo KG14S6H3 có thiết kế dạng tủ đứng hiện đại, phù hợp với không gian bếp gia đình. Máy sử dụng công nghệ lọc RO Vortex kết hợp hệ thống 14 lõi lọc PURION. Sản phẩm có công suất lọc 18 lít/giờ, đáp ứng nhu cầu sử dụng nước hằng ngày. Máy tích hợp ba chế độ nước Hydrogen, nóng và lạnh, mang lại sự tiện lợi cho người dùng.",
+   "so_nguoi": "Phù hợp tham khảo cho gia đình 3–5 người hoặc đông hơn tùy nhu cầu.",
+   "nguon_nuoc": "Ưu tiên nước máy; cần đánh giá nguồn nước khác trước khi sử dụng.",
+   "vi_tri": "Dạng tủ đứng, phù hợp phòng bếp hoặc phòng ăn.",
+   "nhu_cau": "Lọc nước uống, lấy nước nóng và lạnh.",
+   "hang": "Kangaroo.",
+   "cong_nghe": "RO Vortex, 14 lõi lọc, tạo nước Hydrogen.",
+   "bao_tri": "Cần thay lõi định kỳ và kiểm tra chi phí bảo dưỡng.",
+   "so_voi": "Thiết kế 2 vòi lấy nước nóng và nguội",
+   "ngan_sach": "Trên 5 triệu đồng; giá tham khảo khoảng 12.520.000 đồng tại một nhà bán lẻ, có thể thay đổi."
+  },
+  "SP3": {
+   "id": "SP3",
+   "ten": "Máy lọc nước Kangaroo KG13S21H3",
+   "img": [
+    "sp3_1.jpeg"
+   ],
+   "mo_ta": "Máy lọc nước Kangaroo KG13S21H3 có thiết kế dạng tủ đứng hiện đại, phù hợp với không gian gia đình. Máy ứng dụng công nghệ lọc RO Vortex kết hợp hệ thống 13 lõi lọc PURION. Sản phẩm có công suất lọc 18 lít/giờ, đáp ứng sử dụng nước hằng ngày. Máy tích hợp ba chế độ nước Hydrogen, nóng và lạnh, mang lại sự tiện lợi cho người dùng.",
+   "ngan_sach": "Chưa xác minh được giá bán hiện tại từ nguồn chính hãng.",
+   "so_nguoi": "Phù hợp tham khảo cho gia đình 3–5 người.",
+   "nguon_nuoc": "Ưu tiên nước máy; nguồn khác cần đánh giá trước khi sử dụng.",
+   "vi_tri": "Dạng tủ đứng, phù hợp phòng bếp hoặc phòng ăn.",
+   "nhu_cau": "Lọc nước uống, pha trà, cà phê và lấy nước nóng/lạnh.",
+   "hang": "Kangaroo.",
+   "cong_nghe": "RO Vortex, 13 lõi PURION, công nghệ tạo Hydrogen từ khoáng gốm.",
+   "bao_tri": "Cần thay lõi định kỳ và kiểm tra chi phí bảo dưỡng.",
+   "so_voi": "2 vòi / 3 chế độ lấy nước (Nóng – Lạnh – Hydrogen)."
+  },
+  "SP4": {
+   "id": "SP4",
+   "ten": "Máy lọc nước Kangaroo KG12S3H3",
+   "img": [
+    "sp4_1.jpeg"
+   ],
+   "mo_ta": "Máy lọc nước Kangaroo KG12S3H3 có thiết kế dạng tủ đứng hiện đại, phù hợp với không gian gia đình. Máy sử dụng công nghệ lọc RO Vortex kết hợp hệ thống 12 lõi lọc PURION. Sản phẩm đáp ứng nhu cầu cung cấp nước sạch phục vụ sinh hoạt hằng ngày. Máy tích hợp ba chế độ nước Hydrogen, nóng và lạnh, mang lại sự tiện lợi cho người sử dụng.",
+   "ngan_sach": "Trên 5 triệu đồng.",
+   "so_nguoi": "Phù hợp với gia đình từ 3–5 người.",
+   "nguon_nuoc": "Ưu tiên nước máy; nguồn nước khác cần được đánh giá trước khi sử dụng.",
+   "vi_tri": "Dạng tủ đứng, thiết kế nhỏ gọn, phù hợp không gian gia đình.",
+   "nhu_cau": "Cung cấp nước Hydrogen, nước nóng và nước lạnh.",
+   "hang": "Kangaroo.",
+   "cong_nghe": "RO Vortex, hệ thống 12 lõi lọc PURION, công nghệ tạo Hydrogen từ khoáng gốm.",
+   "bao_tri": "Cần thay lõi định kỳ; nên cân nhắc chi phí thay lõi và bảo dưỡng.",
+   "so_voi": "2 vòi, sử dụng 2 van xoay để lựa chọn 3 chế độ nước nóng, lạnh và Hydrogen."
+  },
+  "SP5": {
+   "id": "SP5",
+   "ten": "Máy lọc nước Kangaroo KG100HU",
+   "img": [
+    "sp5_1.jpeg"
+   ],
+   "mo_ta": "Máy lọc nước Kangaroo KG100HU có thiết kế nhỏ gọn, phù hợp đặt trên bàn bếp hoặc lắp dưới gầm tủ. Máy sử dụng công nghệ lọc RO Vortex kết hợp lõi lọc đúc nguyên khối tích hợp 5 trong 1. Sản phẩm có công suất lọc 17 lít/giờ và bình chứa dung tích 3 lít. Máy ứng dụng công nghệ khoáng gốm để tạo nước Hydrogen, đáp ứng nhu cầu sử dụng nước uống hằng ngày",
+   "ngan_sach": "Trên 5 triệu đồng; giá tham khảo tùy nhà bán lẻ và thời điểm.",
+   "so_nguoi": "Phù hợp tham khảo cho gia đình 1–3 người, tùy lượng nước tiêu thụ.",
+   "nguon_nuoc": "Ưu tiên nước máy; nguồn khác cần được đánh giá trước khi sử dụng.",
+   "vi_tri": "Để bàn hoặc dưới gầm tủ bếp, phù hợp không gian nhỏ.",
+   "nhu_cau": "Lọc nước uống và tạo nước Hydrogen; không có chức năng làm nóng/lạnh.",
+   "hang": "Kangaroo.",
+   "cong_nghe": "RO Vortex, lõi lọc đúc nguyên khối 5 trong 1 và công nghệ tạo Hydrogen bằng khoáng gốm.",
+   "bao_tri": "Cần thay lõi định kỳ; nên cân nhắc chi phí lõi thay thế.",
+   "so_voi": "1 vòi lấy nước cơ bản"
+  },
+  "SP6": {
+   "id": "SP6",
+   "ten": "Máy lọc nước Karofi KAQ-C28",
+   "img": [
+    "sp6_1.png"
+   ],
+   "mo_ta": "Máy lọc nước Karofi KAQ-C28 có thiết kế tủ đứng hiện đại, mặt kính cường lực màu đen và bánh xe hỗ trợ di chuyển. Máy sử dụng công nghệ lọc RO với hệ thống 11 lõi lọc Smax, kết hợp lõi Nano Hydro-ion kiềm bổ sung Hydrogen và khoáng chất. Sản phẩm có công suất lọc 10 lít/giờ và bình áp dung tích 5 lít. Máy tích hợp công nghệ AioTec, cho phép theo dõi chất lượng nước và nhận thông báo thay lõi qua điện thoại.",
+   "ngan_sach": "Trên 5 triệu đồng; giá niêm yết tham khảo 9.190.000 đồng trên website Karofi.",
+   "so_nguoi": "Phù hợp tham khảo cho gia đình 3–5 người, tùy nhu cầu tiêu thụ nước.",
+   "nguon_nuoc": "Ưu tiên nước máy; nguồn nước khác cần được đánh giá và xử lý phù hợp trước khi sử dụng.",
+   "vi_tri": "Dạng tủ đứng, có bánh xe hỗ trợ di chuyển, phù hợp phòng bếp hoặc khu vực sinh hoạt.",
+   "nhu_cau": "Lọc nước uống trực tiếp, phục vụ ăn uống hằng ngày và bổ sung Hydro-ion kiềm.",
+   "hang": "Karofi.",
+   "cong_nghe": "Công nghệ RO, hệ thống 11 lõi lọc Smax và lõi Nano Hydro-ion kiềm.",
+   "bao_tri": "Có chức năng thông báo thay lõi qua AioTec; cần thay lõi định kỳ và kiểm tra chi phí bảo dưỡng.",
+   "so_voi": "1 vòi lấy nước, cung cấp nước nguội sau lọc."
+  },
+  "SP7": {
+   "id": "SP7",
+   "ten": "Máy lọc nước Karofi KAQ-D36",
+   "img": [
+    "sp7_1.jpeg"
+   ],
+   "mo_ta": "Máy lọc nước Karofi KAQ-D36 có thiết kế tủ đứng hiện đại với vỏ tủ màu đen, phù hợp với không gian gia đình. Máy sử dụng công nghệ lọc RO kết hợp hệ thống 10 lõi lọc Smax và màng RO 50 GPD. Sản phẩm có công suất lọc 10 lít/giờ, đáp ứng nhu cầu sử dụng nước hằng ngày. Máy cung cấp nước nguội sau lọc, phù hợp cho nhu cầu uống trực tiếp và nấu ăn.",
+   "ngan_sach": "Trên 5 triệu đồng theo giá niêm yết của hãng; giá khuyến mãi tại các đại lý có thể thấp hơn.",
+   "so_nguoi": "Phù hợp tham khảo cho gia đình 3–5 người, tùy nhu cầu tiêu thụ nước.",
+   "nguon_nuoc": "Ưu tiên nước máy; nguồn nước khác cần được đánh giá và xử lý phù hợp trước khi sử dụng.",
+   "vi_tri": "Dạng tủ đứng, phù hợp phòng bếp hoặc khu vực sinh hoạt gia đình.",
+   "nhu_cau": "Lọc nước uống và nấu ăn; không có chức năng làm nóng hoặc làm lạnh.",
+   "hang": "Karofi.",
+   "cong_nghe": "Công nghệ RO, hệ thống 10 lõi lọc Smax và cụm lõi chức năng HP 6.0 bổ sung khoáng chất.",
+   "bao_tri": "Cần thay lõi định kỳ; thời gian thay phụ thuộc chất lượng nguồn nước và mức độ sử dụng.",
+   "so_voi": "1 vòi, cung cấp 1 chế độ nước nguội sau lọc."
+  },
+  "SP8": {
+   "id": "SP8",
+   "ten": "Máy lọc nước Karofi KAQ-U50K",
+   "img": [
+    "sp8_1.jpeg"
+   ],
+   "mo_ta": "Máy lọc nước Karofi KAQ-U50K có thiết kế nhỏ gọn, lắp đặt dưới gầm tủ bếp, giúp tiết kiệm diện tích sử dụng. Máy ứng dụng công nghệ lọc RO với màng lọc 50 GPD sản xuất tại Hàn Quốc, kết hợp hệ thống 10 lõi lọc Smax. Sản phẩm có công suất lọc 10 lít/giờ và bình chứa dung tích 5 lít. Hệ lõi chức năng HP 6.0 giúp bổ sung vi khoáng, đáp ứng nhu cầu nước uống và nấu ăn hằng ngày.",
+   "ngan_sach": "Trên 5 triệu đồng theo giá niêm yết chính hãng 7.480.000 đồng; giá khuyến mãi tại đại lý có thể thấp hơn.",
+   "so_nguoi": "Phù hợp tham khảo cho gia đình 3–5 người, tùy nhu cầu sử dụng nước.",
+   "nguon_nuoc": "Ưu tiên nước máy; nguồn nước khác cần được đánh giá và xử lý phù hợp trước khi sử dụng.",
+   "vi_tri": "Dưới gầm tủ bếp, phù hợp với không gian cần tiết kiệm diện tích.",
+   "nhu_cau": "Cung cấp nước nguội sau lọc để uống và nấu ăn; không có chức năng làm nóng hoặc làm lạnh.",
+   "hang": "Karofi.",
+   "cong_nghe": "Màng RO 50 GPD, hệ thống 10 lõi lọc Smax và lõi chức năng HP 6.0 bổ sung vi khoáng.",
+   "bao_tri": "Cần thay lõi định kỳ; nên kiểm tra chi phí lõi thay thế và bảo dưỡng.",
+   "so_voi": "1 vòi, cung cấp 1 chế độ nước nguội sau lọc."
+  },
+  "SP9": {
+   "id": "SP9",
+   "ten": "Karofi KAQ-U96 PRO",
+   "img": [
+    "sp9_1.png"
+   ],
+   "mo_ta": "Máy lọc nước Karofi KAQ-U96 PRO có thiết kế nhỏ gọn, phù hợp lắp đặt dưới gầm tủ bếp, giúp tiết kiệm diện tích và giữ cho không gian bếp gọn gàng. Máy ứng dụng công nghệ lọc RO kết hợp hệ thống lõi lọc chức năng, hỗ trợ loại bỏ các tạp chất trong nước và nâng cao chất lượng nước sau lọc. Sản phẩm hướng đến nhu cầu cung cấp nước uống và nước phục vụ nấu ăn hằng ngày cho gia đình. Ngoài ra, máy được tích hợp các tính năng hỗ trợ theo dõi tình trạng hoạt động và thời gian thay lõi, giúp người dùng thuận tiện hơn trong quá trình sử dụng và bảo trì.",
+   "ngan_sach": "Trên 5 triệu (giá niêm yết tham khảo 9.020.000 đồng).",
+   "so_nguoi": "3–5 người.",
+   "nguon_nuoc": "Nước máy.",
+   "vi_tri": "Dưới bồn rửa.",
+   "nhu_cau": "Lọc nước uống, tiết kiệm diện tích.",
+   "hang": "Karofi.",
+   "cong_nghe": "RO, hệ thống 10 lõi Smax và lõi chức năng HP 6.2 ION.",
+   "bao_tri": "Dễ thay lõi, có chức năng cảnh báo thay lõi và theo dõi qua ứng dụng Karofi 365.",
+   "so_voi": "1 vòi, cung cấp nước nguội sau lọc"
+  },
+  "SP10": {
+   "id": "SP10",
+   "ten": "Máy lọc nước Karofi KAD-L55",
+   "img": [
+    "sp10_1.png"
+   ],
+   "mo_ta": "Máy lọc nước Karofi KAD-L55 có thiết kế tủ đứng hiện đại, phù hợp với không gian bếp gia đình. Máy sử dụng công nghệ lọc RO kết hợp hệ thống 10 lõi lọc Smax, hỗ trợ loại bỏ tạp chất trong nước. Sản phẩm có công suất lọc 10 lít/giờ và bình chứa 5 lít. Máy cung cấp ba chế độ nước nóng, lạnh và nguội, đáp ứng nhu cầu uống nước, pha chế và nấu ăn hằng ngày.",
+   "ngan_sach": "Trên 5 triệu đồng (giá niêm yết tham khảo 14.080.000 đồng).",
+   "so_nguoi": "3–5 người.",
+   "nguon_nuoc": "Nước máy.",
+   "vi_tri": "Để sàn, phù hợp với phòng bếp hoặc khu vực sinh hoạt.",
+   "nhu_cau": "Nước nóng, lạnh và nguội, đáp ứng nhu cầu uống nước, pha chế và nấu ăn hằng ngày.",
+   "hang": "Karofi.",
+   "cong_nghe": "RO kết hợp hệ thống lõi lọc Smax và lõi chức năng bổ sung khoáng chất.",
+   "bao_tri": "Thay lõi lọc định kỳ, vệ sinh và kiểm tra hệ thống làm nóng, làm lạnh theo khuyến nghị của nhà sản xuất.",
+   "so_voi": "2 vòi/ 3 chế độ nóng – lạnh - Hydrogen."
+  },
+  "SP11": {
+   "id": "SP11",
+   "ten": "Máy lọc nước Sunhouse SHA76210KL",
+   "img": [
+    "sp11_1.jpeg"
+   ],
+   "mo_ta": "Máy lọc nước Sunhouse SHA76210KL có thiết kế tủ đứng với mặt kính cường lực tràn viền hiện đại, phù hợp với không gian bếp gia đình. Máy sử dụng công nghệ lọc RO với màng lọc nhập khẩu Mỹ, kết hợp hệ thống 10 lõi lọc UltraPURE. Sản phẩm có công suất lọc 15–20 lít/giờ và cung cấp ba chế độ nước nóng, lạnh, RO. Ngoài ra, máy có chức năng tự động sục rửa màng RO và công nghệ Nano Silver hỗ trợ hạn chế tái nhiễm khuẩn.",
+   "ngan_sach": "Trên 5 triệu đồng (giá niêm yết tham khảo 9.990.000 đồng )",
+   "so_nguoi": "3–5 người, phù hợp với gia đình có nhu cầu sử dụng nước uống và nước nóng lạnh hằng ngày.",
+   "nguon_nuoc": "Nước máy đạt tiêu chuẩn; nguồn nước giếng hoặc nước chưa qua xử lý cần được xử lý phù hợp trước khi sử dụng.",
+   "vi_tri": "Để sàn, phù hợp với phòng bếp hoặc khu vực sinh hoạt có đủ diện tích đặt máy.",
+   "nhu_cau": "Nước nóng để pha trà, cà phê; nước lạnh để giải khát và nước RO ở nhiệt độ thường để uống, nấu ăn.",
+   "hang": "Sunhouse, thương hiệu thiết bị gia dụng của Việt Nam.",
+   "cong_nghe": "Công nghệ RO với màng lọc nhập khẩu Mỹ, hệ thống 10 lõi UltraPURE và công nghệ Nano Silver hỗ trợ hạn chế tái nhiễm khuẩn.",
+   "bao_tri": "Cần thay lõi lọc định kỳ theo khuyến nghị của nhà sản xuất; máy có chức năng tự động sục rửa màng RO, hỗ trợ duy trì hiệu suất lọc.",
+   "so_voi": "2 vòi, cung cấp 3 chế độ nước nóng, lạnh và RO."
+  },
+  "SP12": {
+   "id": "SP12",
+   "ten": "Máy lọc nước Sunhouse SHA76658SH",
+   "img": [
+    "sp12_1.jpeg"
+   ],
+   "mo_ta": "Máy lọc nước Sunhouse SHA76658SH có thiết kế tủ đứng hiện đại, mặt tủ phủ Nano Polymer sang trọng và hạn chế bám vân tay. Máy sử dụng công nghệ lọc RO với màng RO UltraPURE 100 GPD, kết hợp hệ thống 11 lõi lọc. Sản phẩm có công suất lọc 15–20 lít/giờ và cung cấp bốn chế độ nước gồm nóng, lạnh, RO và Hydrogen. Công nghệ làm lạnh Block giúp làm lạnh sâu, đáp ứng đa dạng nhu cầu sử dụng nước trong gia đình.",
+   "ngan_sach": "Trên 5 triệu đồng (giá tham khảo 9.990.000 đồng).",
+   "so_nguoi": "3–5 người",
+   "nguon_nuoc": "Nước máy; nguồn nước khác cần được kiểm tra và xử lý phù hợp trước khi đưa vào máy.",
+   "vi_tri": "Để sàn, thích hợp đặt trong phòng bếp hoặc khu vực sinh hoạt có không gian phù hợp.",
+   "nhu_cau": "Cung cấp nước nóng để pha trà, cà phê; nước lạnh để giải khát; nước RO và nước Hydrogen phục vụ nhu cầu uống hằng ngày.",
+   "hang": "Sunhouse, thương hiệu thiết bị gia dụng của Việt Nam.",
+   "cong_nghe": "Công nghệ RO với màng RO UltraPURE 100 GPD, hệ thống 11 lõi lọc và công nghệ điện phân Hydrogen sử dụng điện cực Titanium phủ Platinum.",
+   "bao_tri": "Thay lõi lọc theo định kỳ, vệ sinh máy và kiểm tra hệ thống làm nóng, làm lạnh cũng như bộ điện phân Hydrogen để duy trì hoạt động ổn định.",
+   "so_voi": "2 vòi, cung cấp 4 chế độ nước gồm nóng, lạnh, RO và Hydrogen."
+  },
+  "SP13": {
+   "id": "SP13",
+   "ten": "Máy lọc nước Sunhouse SHA76668SH",
+   "img": [
+    "sp13_1.png"
+   ],
+   "mo_ta": "Máy lọc nước Sunhouse SHA76668SH có thiết kế tủ đứng hiện đại, mặt tủ phủ Nano Polymer sang trọng và hạn chế bám vân tay. Máy sử dụng công nghệ lọc RO với màng lọc UltraPURE 100 GPD, kết hợp hệ thống 11 lõi lọc. Sản phẩm có công suất lọc 15–20 lít/giờ, cung cấp nước nóng, lạnh, RO và Hydrogen. Máy còn có chức năng cảnh báo thay lõi tự động và công nghệ làm lạnh Block, đáp ứng nhu cầu sử dụng nước đa dạng trong gia đình.",
+   "ngan_sach": "Trên 5 triệu đồng ( giá bán tham khảo khoảng 10.590.000 đồng ).",
+   "so_nguoi": "3–5 người, phù hợp với gia đình có nhu cầu sử dụng nước uống và nước nóng lạnh thường xuyên.",
+   "nguon_nuoc": "Nước máy; nguồn nước giếng hoặc nguồn khác cần được kiểm tra và xử lý phù hợp trước khi sử dụng.",
+   "vi_tri": "Để sàn, phù hợp với phòng bếp hoặc khu vực sinh hoạt có đủ không gian đặt máy.",
+   "nhu_cau": "Nước nóng để pha trà, cà phê; nước lạnh để giải khát; nước RO và Hydrogen phục vụ nhu cầu uống hằng ngày.",
+   "hang": "Sunhouse, thương hiệu thiết bị gia dụng của Việt Nam.",
+   "cong_nghe": "RO với màng lọc UltraPURE 100 GPD, hệ thống 11 lõi lọc và công nghệ điện phân Hydrogen bằng điện cực Titanium phủ Platinum.",
+   "bao_tri": "Có chức năng cảnh báo thay lõi tự động theo lưu lượng nước; cần thay lõi định kỳ và kiểm tra hệ thống làm nóng, làm lạnh theo hướng dẫn của nhà sản xuất.",
+   "so_voi": "2 vòi, cung cấp 4 chế độ nước gồm nóng, lạnh, RO và Hydrogen"
+  },
+  "SP14": {
+   "id": "SP14",
+   "ten": "Máy lọc nước Sunhouse SHA8606U",
+   "img": [
+    "sp14_1.jpeg"
+   ],
+   "mo_ta": "SUNHOUSE SHA8606U là máy lọc nước RO thiết kế không vỏ, phù hợp lắp dưới gầm tủ bếp để tiết kiệm diện tích. Máy sử dụng hệ thống 10 lõi lọc và màng RO TFC UltraPURE 75GPD, công suất lọc tham khảo 10–15 lít/giờ, phục vụ nhu cầu lấy nước uống và nấu ăn hằng ngày.",
+   "ngan_sach": "Giá bán thay đổi theo nhà bán lẻ và thời điểm; cần kiểm tra giá hiện tại trước khi mua.",
+   "so_nguoi": "Có thể tham khảo cho hộ gia đình; mức phù hợp phụ thuộc lượng nước sử dụng thực tế.",
+   "nguon_nuoc": "Ưu tiên nước máy sinh hoạt; nguồn nước khác cần được đánh giá trước khi sử dụng.",
+   "so_voi": "1 vòi lấy nước (vòi lắp trên mặt bếp, máy đặt dưới gầm).",
+   "vi_tri": "Dưới gầm tủ bếp, cần bố trí vòi lấy nước riêng trên mặt bếp.",
+   "nhu_cau": "Lọc nước uống và nấu ăn hằng ngày.",
+   "hang": "SUNHOUSE.",
+   "cong_nghe": "Màng RO TFC UltraPURE 75GPD, hệ thống 10 lõi lọc; công suất tham khảo 10–15 lít/giờ.",
+   "bao_tri": "Thay lõi định kỳ theo hướng dẫn của nhà sản xuất; kiểm tra rò rỉ và vệ sinh hệ thống khi cần."
+  },
+  "SP15": {
+   "id": "SP15",
+   "ten": "Máy lọc nước Sunhouse SHA8879K",
+   "img": [
+    "sp15_1.jpeg"
+   ],
+   "mo_ta": "SUNHOUSE SHA8879K là máy lọc nước RO dạng tủ đứng thiết kế Slim, thân tủ màu đen với mặt kính cường lực. Máy có hệ thống 8 lõi lọc, gồm màng RO và các lõi chức năng bổ sung khoáng, tạo Hydrogen. Sản phẩm phù hợp bố trí tại khu vực bếp hoặc phòng ăn.",
+   "ngan_sach": "Trên 3 triệu.",
+   "so_nguoi": "Có thể tham khảo cho hộ gia đình; nhu cầu thực tế tùy lượng nước dùng mỗi ngày.",
+   "nguon_nuoc": "Ưu tiên nước máy sinh hoạt; nguồn nước khác cần được đánh giá trước khi sử dụng.",
+   "so_voi": "1 vòi lấy nước; model này không tích hợp vòi nóng lạnh.",
+   "vi_tri": "Dạng tủ đứng, đặt trên sàn phẳng gần đường cấp nước và ổ cắm điện phù hợp.",
+   "nhu_cau": "Lọc nước uống và phục vụ sinh hoạt hằng ngày.",
+   "hang": "SUNHOUSE.",
+   "cong_nghe": "RO, hệ thống 8 lõi lọc; có lõi tạo khoáng và lõi Hydrogen theo thông tin hãng.",
+   "bao_tri": "Thay lõi theo chu kỳ khuyến nghị; kiểm tra định kỳ đường nước và hệ thống điện."
+  },
+  "SP16": {
+   "id": "SP16",
+   "ten": "Máy lọc nước Toshiba TWP-WA3SVN(K)",
+   "img": [
+    "sp16_1.png"
+   ],
+   "mo_ta": "Toshiba TWP-WA3SVN(K) là máy lọc nước dạng tủ đứng màu đen, thuộc dòng OriginPure. Máy sử dụng hệ thống 10 lõi lọc, màng RO DOW 100GPD và công nghệ Rock Active/OriginPure™ hỗ trợ bổ sung khoáng và tạo nước kiềm. Máy có các lựa chọn nước nóng, lạnh và nguội.",
+   "ngan_sach": "Trên 5 triệu.",
+   "so_nguoi": "Có thể tham khảo cho hộ gia đình; cần cân đối theo nhu cầu nước nóng, lạnh và nguội.",
+   "nguon_nuoc": "Ưu tiên nước máy sinh hoạt; nguồn nước khác cần được đánh giá trước khi sử dụng.",
+   "so_voi": "1 cụm vòi lấy nước, cung cấp các chế độ nóng, lạnh và nguội.",
+   "vi_tri": "Dạng tủ đứng, đặt tại khu vực bếp hoặc phòng ăn, gần nguồn cấp nước và ổ cắm điện.",
+   "nhu_cau": "Lấy nước uống, nước nóng pha trà/cà phê và nước lạnh.",
+   "hang": "Toshiba.",
+   "cong_nghe": "Hệ thống 10 lõi lọc, màng RO DOW 100GPD; công suất lọc tham khảo 16 lít/giờ; tích hợp các chức năng nóng – lạnh – nguội.",
+   "bao_tri": "Theo dõi thời hạn thay lõi theo khuyến nghị hãng; giữ sạch khu vực lấy nước và kiểm tra định kỳ."
+  },
+  "SP17": {
+   "id": "SP17",
+   "ten": "Máy lọc nước Toshiba TWP-NA1SVN(K)",
+   "img": [
+    "sp17_1.jpeg"
+   ],
+   "mo_ta": "Toshiba TWP-NA1SVN(K) là máy lọc nước dạng tủ đứng màu đen thuộc dòng OriginPure. Máy sử dụng hệ thống 10 lõi lọc, màng RO DOW 100GPD và công nghệ Rock Active/OriginPure™. Model này cung cấp nước nguội, phù hợp người dùng cần máy lọc nước không tích hợp chức năng nóng lạnh.",
+   "ngan_sach": "Trên 3 triệu.",
+   "so_nguoi": "Có thể tham khảo cho hộ gia đình; mức phù hợp tùy lượng nước tiêu thụ thực tế.",
+   "nguon_nuoc": "Ưu tiên nước máy sinh hoạt; nguồn nước khác cần được đánh giá trước khi sử dụng.",
+   "so_voi": "1 vòi/cụm lấy nước nguội.",
+   "vi_tri": "Dạng tủ đứng, đặt trên sàn phẳng tại bếp hoặc phòng ăn.",
+   "nhu_cau": "Lọc nước uống và lấy nước nguội hằng ngày.",
+   "hang": "Toshiba.",
+   "cong_nghe": "Hệ thống 10 lõi lọc, màng RO DOW 100GPD; công suất lọc tham khảo 16 lít/giờ.",
+   "bao_tri": "Thay lõi định kỳ theo khuyến nghị hãng; kiểm tra đường nước và vệ sinh vòi lấy nước."
+  },
+  "SP18": {
+   "id": "SP18",
+   "ten": "Máy lọc nước A. O. Smith R400E",
+   "img": [
+    "sp18_1.png"
+   ],
+   "mo_ta": "Máy lọc nước A. O. Smith R400E có thiết kế lắp đặt dưới gầm tủ bếp, phù hợp với không gian bếp nhỏ và giúp tiết kiệm diện tích. Máy sử dụng công nghệ RO – Side Stream cùng hệ thống 7 cấp lọc, vòi điện tử và chức năng tự động làm sạch. Sản phẩm cung cấp nước thường, phù hợp nhu cầu lấy nước uống và phục vụ sinh hoạt hằng ngày.",
+   "ngan_sach": "Trên 5 triệu.",
+   "so_nguoi": "Có thể tham khảo cho hộ gia đình; mức sử dụng thực tế phụ thuộc lượng nước dùng mỗi ngày.",
+   "nguon_nuoc": "Theo thông số hãng, nguồn nước cấp phù hợp là nước máy sinh hoạt; cần đánh giá nguồn nước khác trước khi sử dụng.",
+   "so_voi": "1 vòi điện tử (lấy nước thường).",
+   "vi_tri": "Lắp dưới gầm tủ bếp, kết hợp vòi lấy nước trên mặt bếp.",
+   "nhu_cau": "Lọc nước thường phục vụ uống và các nhu cầu sử dụng nước trong gia đình.",
+   "hang": "A. O. Smith.",
+   "cong_nghe": "RO – Side Stream, 7 cấp lọc; công suất lọc tối đa khoảng 1,1 lít/phút theo thông số hãng.",
+   "bao_tri": "Cần thay lõi theo khuyến nghị của nhà sản xuất, theo dõi cảnh báo thay lõi và kiểm tra định kỳ hệ thống."
+  },
+  "SP19": {
+   "id": "SP19",
+   "ten": "Máy lọc nước A. O. Smith R700Slim",
+   "img": [
+    "sp19_1.jpeg"
+   ],
+   "mo_ta": "A. O. Smith R700Slim là máy lọc nước thiết kế đặt dưới gầm tủ, có kiểu dáng mỏng giúp tối ưu không gian lắp đặt. Máy sử dụng công nghệ RO – Side Stream 3.0 và bộ lọc tích hợp 7 cấp trong một lõi, đi kèm vòi điện tử có cảnh báo thay lõi. Thiết kế lõi tích hợp giúp giảm số lượng đầu nối và hạn chế nguy cơ rò rỉ.",
+   "ngan_sach": "Trang hãng niêm yết giá tham khảo khoảng 17.000.000 đồng tại thời điểm tra cứu; giá có thể thay đổi.",
+   "so_nguoi": "Phù hợp tham khảo cho hộ gia đình; cần cân đối theo lượng nước sử dụng thực tế.",
+   "nguon_nuoc": "Nguồn nước cấp phù hợp là nước máy sinh hoạt; nguồn nước khác cần được đánh giá trước khi sử dụng.",
+   "so_voi": "1 vòi điện tử (lấy nước thường).",
+   "vi_tri": "Lắp dưới gầm tủ bếp; có thể bố trí máy theo chiều lắp đặt phù hợp với không gian.",
+   "nhu_cau": "Lấy nước thường trực tiếp từ vòi điện tử để uống và phục vụ sinh hoạt.",
+   "hang": "A. O. Smith.",
+   "cong_nghe": "RO – Side Stream 3.0; 7 cấp lọc tích hợp trong một lõi; công suất lọc khoảng 1,8 lít/phút và tỷ lệ thu hồi nước tinh khiết hãng công bố lên đến 70%.",
+   "bao_tri": "Theo dõi cảnh báo thay lõi, vệ sinh và kiểm tra máy định kỳ; sử dụng lõi lọc đúng chủng loại được nhà sản xuất khuyến nghị."
+  },
+  "SP20": {
+   "id": "SP20",
+   "ten": "Máy lọc nước A. O. Smith S600",
+   "img": [
+    "sp20_1.png"
+   ],
+   "mo_ta": "A. O. Smith S600 là máy lọc nước RO – Side Stream có thiết kế thân máy màu trắng, phù hợp bố trí trong không gian bếp gia đình. Máy có 5 cấp lọc, vòi điện tử, chức năng tự động làm sạch và hệ thống cảnh báo thay lõi. Công suất lọc lớn giúp lấy nước trực tiếp khi cần, phù hợp nhu cầu sử dụng nước thường hằng ngày.",
+   "ngan_sach": "Trang hãng niêm yết giá tham khảo khoảng 14.280.000 đồng tại thời điểm tra cứu; giá có thể thay đổi.",
+   "so_nguoi": "Có thể tham khảo cho gia đình có nhu cầu sử dụng nước thường xuyên; quy mô phù hợp còn tùy lượng nước tiêu thụ.",
+   "nguon_nuoc": "Theo thông số hãng, sử dụng nước máy sinh hoạt; nguồn khác cần đánh giá trước khi cấp vào máy.",
+   "so_voi": "1 vòi điện tử (lấy nước thường).",
+   "vi_tri": "Đặt trong khu vực bếp hoặc vị trí khô ráo, thuận tiện đấu nối nguồn nước và điện.",
+   "nhu_cau": "Lọc nước thường để uống và phục vụ nhu cầu sử dụng nước trong gia đình.",
+   "hang": "A. O. Smith.",
+   "cong_nghe": "RO – Side Stream 2.0, 5 cấp lọc; công suất lọc tối đa khoảng 1,5 lít/phút theo thông số hãng.",
+   "bao_tri": "Thay lõi định kỳ theo hướng dẫn; kiểm tra cảnh báo, đường nước và hoạt động tự làm sạch."
+  },
+  "SP21": {
+   "id": "SP21",
+   "ten": "Máy lọc nước Mutosi MP-1101",
+   "img": [
+    "sp21_1.png"
+   ],
+   "mo_ta": "Mutosi MP-1101 là model máy lọc nước thuộc thương hiệu Mutosi. Khi lựa chọn sản phẩm, cần đối chiếu đúng mã MP-1101 trên nhãn máy hoặc trang bán hàng để xác nhận thiết kế, cấu hình lõi lọc và các chức năng đi kèm. Các thông số chi tiết chưa được xác minh đầy đủ trong nguồn tham khảo hiện có nên không suy đoán công suất hoặc số lõi.",
+   "ngan_sach": "Trên 3 triệu.",
+   "so_nguoi": "Cần xác định theo công suất lọc, dung tích bình chứa và nhu cầu nước của gia đình sau khi xác minh đúng cấu hình.",
+   "nguon_nuoc": "Cần đối chiếu hướng dẫn sử dụng của đúng model để xác định loại nguồn nước đầu vào được phép sử dụng.",
+   "so_voi": "1 vòi lấy nước (máy không tủ; nên đối chiếu ảnh cấu hình khi mua).",
+   "vi_tri": "Xác định theo kiểu thiết kế thực tế của model và hướng dẫn lắp đặt của nhà sản xuất.",
+   "nhu_cau": "Nhu cầu sử dụng cụ thể cần đối chiếu theo phiên bản sản phẩm và chức năng được nhà sản xuất công bố.",
+   "hang": "Mutosi.",
+   "cong_nghe": "Chưa xác minh đầy đủ thông số công nghệ, số cấp lọc và công suất cho đúng model MP-1101.",
+   "bao_tri": "Kiểm tra lịch thay lõi, giá lõi thay thế và điều kiện bảo hành theo tài liệu chính hãng trước khi mua."
+  },
+  "SP22": {
+   "id": "SP22",
+   "ten": "Máy lọc nước Mutosi MP-S129",
+   "img": [
+    "sp22_1.png"
+   ],
+   "mo_ta": "Mutosi MP-S129 là máy lọc nước RO dạng tủ đứng, tích hợp các chế độ nước nóng, lạnh và nước thường. Theo thông tin sản phẩm của Mutosi, máy có hệ thống 10 lõi với 12 cấp lọc, công suất lọc khoảng 10–15 lít/giờ và bình chứa tổng dung tích 10 lít theo các ngăn chức năng. Thiết kế tủ đứng phù hợp bố trí tại phòng bếp hoặc phòng ăn.",
+   "ngan_sach": "Theo trang sản phẩm, khoảng giá tham khảo từ 7–10 triệu đồng; giá thực tế có thể thay đổi theo nhà bán lẻ và thời điểm.",
+   "so_nguoi": "Có thể tham khảo cho gia đình khoảng 3–5 người; nhu cầu thực tế phụ thuộc lượng nước nóng, lạnh và nước thường sử dụng.",
+   "nguon_nuoc": "Theo thông số sản phẩm, nguồn nước đầu vào là nước máy.",
+   "so_voi": "2 vòi, cung cấp 3 chế độ nước nóng – lạnh – nguội.",
+   "vi_tri": "Lắp đặt dạng tủ đứng tại phòng bếp hoặc phòng ăn, trên mặt bằng phẳng và gần nguồn cấp nước, ổ điện phù hợp.",
+   "nhu_cau": "Lọc nước uống, lấy nước nóng để pha trà hoặc đồ uống, lấy nước lạnh và nước thường.",
+   "hang": "Mutosi.",
+   "cong_nghe": "Thẩm thấu ngược RO; hệ thống 10 lõi, 12 cấp lọc; có chức năng nóng – lạnh – nguội theo thông tin sản phẩm.",
+   "bao_tri": "Thay lõi theo khuyến nghị, vệ sinh thiết bị và kiểm tra hệ thống nóng/lạnh định kỳ; xem xét chi phí bảo dưỡng trước khi mua."
+  },
+  "SP23": {
+   "id": "SP23",
+   "ten": "Máy lọc nước Mutosi MP-U28H",
+   "img": [
+    "sp23_1.png"
+   ],
+   "mo_ta": "Mutosi MP-U28H là model máy lọc nước cần được đối chiếu đúng mã sản phẩm trước khi xác nhận cấu hình. Tài liệu tham khảo hiện có chưa đủ để xác nhận chắc chắn thiết kế, công suất, số cấp lọc và các chức năng của đúng phiên bản này. Vì vậy, phần mô tả dưới đây giữ ở mức thận trọng để tránh nhầm với model khác của cùng thương hiệu.",
+   "ngan_sach": "Trên 5 triệu.",
+   "so_nguoi": "Cần căn cứ công suất lọc và dung tích bình chứa được xác nhận từ tài liệu đúng model để ước tính số người sử dụng phù hợp.",
+   "nguon_nuoc": "Cần kiểm tra hướng dẫn của nhà sản xuất để xác định loại nguồn nước đầu vào được phép sử dụng.",
+   "so_voi": "1 vòi với 2 chế độ nước: RO khoáng và ion kiềm Hydrogen.",
+   "vi_tri": "Xác định theo thiết kế thực tế của máy và yêu cầu lắp đặt trong hướng dẫn sử dụng.",
+   "nhu_cau": "Xác nhận chức năng lọc và các chế độ nước theo thông tin chính hãng trước khi lựa chọn.",
+   "hang": "Mutosi.",
+   "cong_nghe": "Chưa xác minh đầy đủ số cấp lọc, loại màng lọc và công nghệ cụ thể cho model MP-U28H.",
+   "bao_tri": "Kiểm tra đúng mã lõi thay thế, chu kỳ thay lõi, chi phí bảo trì và điều kiện bảo hành."
+  },
+  "SP24": {
+   "id": "SP24",
+   "ten": "Máy lọc nước Mutosi MP-P88N",
+   "img": [
+    "sp24_1.jpeg"
+   ],
+   "mo_ta": "Mutosi MP-P88N là model máy lọc nước thuộc thương hiệu Mutosi. Chưa có đủ thông tin đáng tin cậy trong nguồn tham khảo hiện có để khẳng định chính xác thiết kế, công nghệ lọc, số lõi, công suất và các chế độ nước của đúng mã này. Cần đối chiếu trang sản phẩm hoặc nhãn model để hoàn thiện mô tả kỹ thuật trước khi dùng làm căn cứ lựa chọn.",
+   "ngan_sach": "Trên 5 triệu.",
+   "so_nguoi": "Chưa đủ dữ liệu về công suất lọc và dung tích chứa để xác định số người sử dụng phù hợp.",
+   "nguon_nuoc": "Cần kiểm tra tài liệu hướng dẫn chính hãng cho đúng model để xác nhận nguồn nước đầu vào.",
+   "so_voi": "2 vòi, cung cấp 6 chế độ nước.",
+   "vi_tri": "Xác định theo kiểu máy và yêu cầu lắp đặt ghi trong hướng dẫn sử dụng.",
+   "nhu_cau": "Cần xác nhận chức năng nước đầu ra và các chế độ sử dụng theo thông tin của nhà sản xuất.",
+   "hang": "Mutosi.",
+   "cong_nghe": "Chưa xác minh đầy đủ công nghệ lọc và cấu hình lõi của model MP-P88N.",
+   "bao_tri": "Kiểm tra chu kỳ thay lõi, chi phí vật tư và bảo hành dựa trên đúng phiên bản máy."
+  },
+  "SP25": {
+   "id": "SP25",
+   "ten": "Máy lọc nước Korihome WPK-915",
+   "img": [
+    "sp25_1.png"
+   ],
+   "mo_ta": "Korihome WPK-915 là model máy lọc nước của thương hiệu Korihome. Cần đối chiếu mã WPK-915 trên trang sản phẩm hoặc nhãn thiết bị để xác nhận đúng kiểu tủ, các chế độ nước và cấu hình lọc. Do thông số chính xác của model chưa được xác minh đầy đủ trong nguồn tham khảo hiện có, không nên suy đoán công suất hay số lõi.",
+   "ngan_sach": "trên 5 triệu.",
+   "so_nguoi": "Cần căn cứ công suất lọc và dung tích bình chứa thực tế để đánh giá mức phù hợp với số người sử dụng.",
+   "nguon_nuoc": "Kiểm tra hướng dẫn sử dụng đúng model để xác định nguồn nước đầu vào được khuyến nghị.",
+   "so_voi": "2 vòi nước nóng – lạnh.",
+   "vi_tri": "Bố trí theo thiết kế máy thực tế và hướng dẫn lắp đặt; bảo đảm vị trí thông thoáng, bằng phẳng và thuận tiện bảo trì.",
+   "nhu_cau": "Xác nhận các chức năng nước đầu ra và nhu cầu sử dụng theo tài liệu của đúng model.",
+   "hang": "Korihome.",
+   "cong_nghe": "Chưa xác minh đầy đủ công nghệ lọc và cấu hình lõi của model WPK-915.",
+   "bao_tri": "Kiểm tra lõi lọc tương thích, thời hạn thay lõi, chi phí bảo trì và chính sách bảo hành."
+  },
+  "SP26": {
+   "id": "SP26",
+   "ten": "Máy lọc nước Hòa Phát HPN669",
+   "img": [
+    "sp26_1.jpeg"
+   ],
+   "mo_ta": "Hòa Phát HPN669 là máy lọc nước RO nóng lạnh dạng tủ đứng theo trang sản phẩm của Hòa Phát. Thiết kế tủ đứng phù hợp bố trí tại khu vực bếp hoặc phòng ăn; các chế độ nước giúp đáp ứng nhu cầu lấy nước uống và nước nóng/lạnh trong sinh hoạt. Cần xem bảng thông số của nhà sản xuất để xác nhận chi tiết công suất và cấu hình lõi trước khi quyết định mua.",
+   "ngan_sach": "Trên 5 triệu.",
+   "so_nguoi": "Có thể tham khảo cho gia đình; số người sử dụng phù hợp còn phụ thuộc công suất lọc, dung tích bình chứa và lượng nước tiêu thụ.",
+   "nguon_nuoc": "Ưu tiên sử dụng nguồn nước đầu vào theo hướng dẫn của nhà sản xuất; cần đánh giá nguồn nước khác trước khi sử dụng.",
+   "so_voi": "2 vòi lấy nước.",
+   "vi_tri": "Dạng tủ đứng, đặt ở vị trí bằng phẳng trong bếp hoặc phòng ăn, gần nguồn nước và ổ điện phù hợp.",
+   "nhu_cau": "Lọc nước phục vụ uống và lấy nước nóng/lạnh theo chức năng được công bố cho model.",
+   "hang": "Hòa Phát.",
+   "cong_nghe": "Công nghệ RO; máy có chức năng nóng/lạnh theo tên và trang giới thiệu sản phẩm. Cần đối chiếu thông số kỹ thuật chính thức để xác nhận cấu hình lõi và công suất.",
+   "bao_tri": "Thay lõi định kỳ theo hướng dẫn; kiểm tra hệ thống cấp nước, chức năng nóng/lạnh và chi phí bảo dưỡng."
+  }
+ },
+ "facts": {
+  "TH": {
+   "ten": "Hãng sản xuất",
+   "opts": [
+    {
+     "ma": "TH1",
+     "nhan": "Ưu tiên hãng Kangaroo"
+    },
+    {
+     "ma": "TH2",
+     "nhan": "Ưu tiên hãng Karofi"
+    },
+    {
+     "ma": "TH3",
+     "nhan": "Ưu tiên hãng Sunhouse"
+    },
+    {
+     "ma": "TH4",
+     "nhan": "Ưu tiên hãng Toshiba"
+    },
+    {
+     "ma": "TH5",
+     "nhan": "Ưu tiên hãng khác (A. O. Smith, Mutosi, Korihome, Hòa Phát)"
+    },
+    {
+     "ma": "TH0",
+     "nhan": "Không ưu tiên hãng sản xuất cụ thể"
+    }
+   ]
+  },
+  "N": {
+   "ten": "Ngân sách",
+   "opts": [
+    {
+     "ma": "N1",
+     "nhan": "Ngân sách dưới 3 triệu đồng"
+    },
+    {
+     "ma": "N2",
+     "nhan": "Ngân sách từ 3 đến 5 triệu đồng"
+    },
+    {
+     "ma": "N3",
+     "nhan": "Ngân sách trên 5 triệu đồng"
+    },
+    {
+     "ma": "N0",
+     "nhan": "Chưa xác định ngân sách cụ thể"
+    }
+   ]
+  },
+  "S": {
+   "ten": "Số người sử dụng",
+   "opts": [
+    {
+     "ma": "S1",
+     "nhan": "Có từ 1–2 người sử dụng"
+    },
+    {
+     "ma": "S2",
+     "nhan": "Có từ 3–5 người sử dụng"
+    },
+    {
+     "ma": "S3",
+     "nhan": "Có trên 5 người sử dụng"
+    },
+    {
+     "ma": "S0",
+     "nhan": "Chưa xác định số người sử dụng"
+    }
+   ]
+  },
+  "W": {
+   "ten": "Nguồn nước đầu vào",
+   "opts": [
+    {
+     "ma": "W1",
+     "nhan": "Sử dụng nước máy"
+    },
+    {
+     "ma": "W2",
+     "nhan": "Sử dụng nước giếng"
+    },
+    {
+     "ma": "W3",
+     "nhan": "Sử dụng nguồn nước khác"
+    },
+    {
+     "ma": "W0",
+     "nhan": "Chưa xác định nguồn nước đầu vào"
+    }
+   ]
+  },
+  "VT": {
+   "ten": "Vị trí lắp đặt",
+   "opts": [
+    {
+     "ma": "VT1",
+     "nhan": "Lắp đặt để bàn"
+    },
+    {
+     "ma": "VT2",
+     "nhan": "Lắp đặt dưới bồn rửa"
+    },
+    {
+     "ma": "VT3",
+     "nhan": "Lắp đặt dạng tủ đứng/đặt sàn"
+    },
+    {
+     "ma": "VT0",
+     "nhan": "Chưa có yêu cầu cụ thể về vị trí lắp đặt"
+    }
+   ]
+  },
+  "NC": {
+   "ten": "Nhu cầu sử dụng",
+   "opts": [
+    {
+     "ma": "NC1",
+     "nhan": "Nhu cầu lọc nước uống"
+    },
+    {
+     "ma": "NC2",
+     "nhan": "Nhu cầu sử dụng nước nóng/lạnh"
+    },
+    {
+     "ma": "NC3",
+     "nhan": "Nhu cầu tiết kiệm diện tích"
+    },
+    {
+     "ma": "NC0",
+     "nhan": "Chưa xác định nhu cầu sử dụng cụ thể"
+    }
+   ]
+  },
+  "CN": {
+   "ten": "Công nghệ lọc nước",
+   "opts": [
+    {
+     "ma": "CN1",
+     "nhan": "Ưu tiên công nghệ lọc RO"
+    },
+    {
+     "ma": "CN2",
+     "nhan": "Ưu tiên công nghệ lọc Nano"
+    },
+    {
+     "ma": "CN3",
+     "nhan": "Ưu tiên công nghệ lọc UF"
+    },
+    {
+     "ma": "CN0",
+     "nhan": "Chưa có yêu cầu cụ thể về công nghệ lọc"
+    }
+   ]
+  },
+  "BT": {
+   "ten": "Bảo trì",
+   "opts": [
+    {
+     "ma": "BT1",
+     "nhan": "Ưu tiên máy dễ thay lõi lọc"
+    },
+    {
+     "ma": "BT2",
+     "nhan": "Ưu tiên chi phí thay lõi lọc thấp"
+    },
+    {
+     "ma": "BT3",
+     "nhan": "Ưu tiên máy ít phải bảo trì"
+    },
+    {
+     "ma": "BT0",
+     "nhan": "Không có yêu cầu cụ thể về bảo trì"
+    }
+   ]
+  },
+  "SV": {
+   "ten": "Số vòi và chức năng của vòi",
+   "opts": [
+    {
+     "ma": "SV1",
+     "nhan": "Máy có 1 vòi, cung cấp nước nguội sau lọc"
+    },
+    {
+     "ma": "SV2",
+     "nhan": "Máy có 1 vòi, cung cấp nước nóng và nước nguội"
+    },
+    {
+     "ma": "SV3",
+     "nhan": "Máy có 1 vòi, cung cấp nước lạnh và nước nguội"
+    },
+    {
+     "ma": "SV4",
+     "nhan": "Máy có 2 vòi, cung cấp nước nóng, lạnh và nguội"
+    },
+    {
+     "ma": "SV5",
+     "nhan": "Máy có 1 vòi, cung cấp nước Hydrogen"
+    },
+    {
+     "ma": "SV6",
+     "nhan": "Máy có 2 vòi, cung cấp nước nóng, lạnh và Hydrogen"
+    },
+    {
+     "ma": "SV7",
+     "nhan": "Máy có 2 vòi, cung cấp nước nóng, lạnh, RO và Hydrogen"
+    },
+    {
+     "ma": "SV8",
+     "nhan": "Máy có từ 3 vòi trở lên hoặc có tổ hợp chức năng khác"
+    },
+    {
+     "ma": "SV0",
+     "nhan": "Không có yêu cầu cụ thể về số vòi và chức năng của vòi"
+    }
+   ]
+  }
+ },
+ "rules": [
+  {
+   "id": 1,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, lắp đặt dưới bồn rửa, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG14K6H1.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S1",
+    "W1",
+    "VT2",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV5"
+   ],
+   "kq": "SP1"
+  },
+  {
+   "id": 2,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước máy, lắp đặt dưới bồn rửa, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG14K6H1.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S2",
+    "W1",
+    "VT2",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV5"
+   ],
+   "kq": "SP1"
+  },
+  {
+   "id": 3,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước máy, lắp đặt dưới bồn rửa, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG14K6H1.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S3",
+    "W1",
+    "VT2",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV5"
+   ],
+   "kq": "SP1"
+  },
+  {
+   "id": 4,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước giếng, lắp đặt dưới bồn rửa, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG14K6H1.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S1",
+    "W2",
+    "VT2",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV5"
+   ],
+   "kq": "SP1"
+  },
+  {
+   "id": 5,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước giếng, lắp đặt dưới bồn rửa, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG14K6H1.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S2",
+    "W2",
+    "VT2",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV5"
+   ],
+   "kq": "SP1"
+  },
+  {
+   "id": 6,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước giếng, lắp đặt dưới bồn rửa, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG14K6H1.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S3",
+    "W2",
+    "VT2",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV5"
+   ],
+   "kq": "SP1"
+  },
+  {
+   "id": 7,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nguồn nước khác, lắp đặt dưới bồn rửa, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG14K6H1.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S1",
+    "W3",
+    "VT2",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV5"
+   ],
+   "kq": "SP1"
+  },
+  {
+   "id": 8,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nguồn nước khác, lắp đặt dưới bồn rửa, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG14K6H1.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S2",
+    "W3",
+    "VT2",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV5"
+   ],
+   "kq": "SP1"
+  },
+  {
+   "id": 9,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nguồn nước khác, lắp đặt dưới bồn rửa, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG14K6H1.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S3",
+    "W3",
+    "VT2",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV5"
+   ],
+   "kq": "SP1"
+  },
+  {
+   "id": 10,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, chưa xác định số người sử dụng, chưa xác định nguồn nước đầu vào, lắp đặt dưới bồn rửa, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG14K6H1.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S0",
+    "W0",
+    "VT2",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV5"
+   ],
+   "kq": "SP1"
+  },
+  {
+   "id": 11,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG14S6H3.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S1",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP2"
+  },
+  {
+   "id": 12,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG14S6H3.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S2",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP2"
+  },
+  {
+   "id": 13,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG14S6H3.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S3",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP2"
+  },
+  {
+   "id": 14,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG14S6H3.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S1",
+    "W2",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP2"
+  },
+  {
+   "id": 15,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG14S6H3.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S2",
+    "W2",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP2"
+  },
+  {
+   "id": 16,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG14S6H3.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S3",
+    "W2",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP2"
+  },
+  {
+   "id": 17,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG14S6H3.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S1",
+    "W3",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP2"
+  },
+  {
+   "id": 18,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG14S6H3.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S2",
+    "W3",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP2"
+  },
+  {
+   "id": 19,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG14S6H3.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S3",
+    "W3",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP2"
+  },
+  {
+   "id": 20,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, chưa xác định số người sử dụng, chưa xác định nguồn nước đầu vào, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG14S6H3.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S0",
+    "W0",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP2"
+  },
+  {
+   "id": 21,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG13S21H3.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S1",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP3"
+  },
+  {
+   "id": 22,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG13S21H3.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S2",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP3"
+  },
+  {
+   "id": 23,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG13S21H3.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S3",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP3"
+  },
+  {
+   "id": 24,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG13S21H3.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S1",
+    "W2",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP3"
+  },
+  {
+   "id": 25,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG13S21H3.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S2",
+    "W2",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP3"
+  },
+  {
+   "id": 26,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG13S21H3.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S3",
+    "W2",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP3"
+  },
+  {
+   "id": 27,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG13S21H3.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S1",
+    "W3",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP3"
+  },
+  {
+   "id": 28,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG13S21H3.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S2",
+    "W3",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP3"
+  },
+  {
+   "id": 29,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG13S21H3.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S3",
+    "W3",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP3"
+  },
+  {
+   "id": 30,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, chưa xác định số người sử dụng, chưa xác định nguồn nước đầu vào, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG13S21H3.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S0",
+    "W0",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP3"
+  },
+  {
+   "id": 31,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG12S3H3.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S1",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP4"
+  },
+  {
+   "id": 32,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG12S3H3.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S2",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP4"
+  },
+  {
+   "id": 33,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG12S3H3.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S3",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP4"
+  },
+  {
+   "id": 34,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG12S3H3.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S1",
+    "W2",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP4"
+  },
+  {
+   "id": 35,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG12S3H3.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S2",
+    "W2",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP4"
+  },
+  {
+   "id": 36,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG12S3H3.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S3",
+    "W2",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP4"
+  },
+  {
+   "id": 37,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG12S3H3.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S1",
+    "W3",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP4"
+  },
+  {
+   "id": 38,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG12S3H3.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S2",
+    "W3",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP4"
+  },
+  {
+   "id": 39,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG12S3H3.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S3",
+    "W3",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP4"
+  },
+  {
+   "id": 40,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, chưa xác định số người sử dụng, chưa xác định nguồn nước đầu vào, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG12S3H3.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S0",
+    "W0",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP4"
+  },
+  {
+   "id": 41,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, lắp đặt để bàn, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Kangaroo KG100HU.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S1",
+    "W1",
+    "VT1",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP5"
+  },
+  {
+   "id": 42,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước máy, lắp đặt để bàn, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Kangaroo KG100HU.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S2",
+    "W1",
+    "VT1",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP5"
+  },
+  {
+   "id": 43,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước máy, lắp đặt để bàn, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Kangaroo KG100HU.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S3",
+    "W1",
+    "VT1",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP5"
+  },
+  {
+   "id": 44,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước giếng, lắp đặt để bàn, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Kangaroo KG100HU.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S1",
+    "W2",
+    "VT1",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP5"
+  },
+  {
+   "id": 45,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước giếng, lắp đặt để bàn, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Kangaroo KG100HU.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S2",
+    "W2",
+    "VT1",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP5"
+  },
+  {
+   "id": 46,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước giếng, lắp đặt để bàn, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Kangaroo KG100HU.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S3",
+    "W2",
+    "VT1",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP5"
+  },
+  {
+   "id": 47,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nguồn nước khác, lắp đặt để bàn, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Kangaroo KG100HU.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S1",
+    "W3",
+    "VT1",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP5"
+  },
+  {
+   "id": 48,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nguồn nước khác, lắp đặt để bàn, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Kangaroo KG100HU.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S2",
+    "W3",
+    "VT1",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP5"
+  },
+  {
+   "id": 49,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nguồn nước khác, lắp đặt để bàn, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Kangaroo KG100HU.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S3",
+    "W3",
+    "VT1",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP5"
+  },
+  {
+   "id": 50,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, chưa xác định số người sử dụng, chưa xác định nguồn nước đầu vào, lắp đặt để bàn, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Kangaroo KG100HU.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S0",
+    "W0",
+    "VT1",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP5"
+  },
+  {
+   "id": 51,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần lọc nước uống, ưu tiên công nghệ RO, ưu tiên máy dễ thay lõi lọc và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Karofi KAQ-C28.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S1",
+    "W1",
+    "VT3",
+    "NC1",
+    "CN1",
+    "BT1",
+    "SV1"
+   ],
+   "kq": "SP6"
+  },
+  {
+   "id": 52,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần lọc nước uống, ưu tiên công nghệ RO, ưu tiên máy dễ thay lõi lọc và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Karofi KAQ-C28.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S2",
+    "W1",
+    "VT3",
+    "NC1",
+    "CN1",
+    "BT1",
+    "SV1"
+   ],
+   "kq": "SP6"
+  },
+  {
+   "id": 53,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần lọc nước uống, ưu tiên công nghệ RO, ưu tiên máy dễ thay lõi lọc và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Karofi KAQ-C28.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S3",
+    "W1",
+    "VT3",
+    "NC1",
+    "CN1",
+    "BT1",
+    "SV1"
+   ],
+   "kq": "SP6"
+  },
+  {
+   "id": 54,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần lọc nước uống, ưu tiên công nghệ RO, ưu tiên máy dễ thay lõi lọc và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Karofi KAQ-C28.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S1",
+    "W2",
+    "VT3",
+    "NC1",
+    "CN1",
+    "BT1",
+    "SV1"
+   ],
+   "kq": "SP6"
+  },
+  {
+   "id": 55,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần lọc nước uống, ưu tiên công nghệ RO, ưu tiên máy dễ thay lõi lọc và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Karofi KAQ-C28.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S2",
+    "W2",
+    "VT3",
+    "NC1",
+    "CN1",
+    "BT1",
+    "SV1"
+   ],
+   "kq": "SP6"
+  },
+  {
+   "id": 56,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần lọc nước uống, ưu tiên công nghệ RO, ưu tiên máy dễ thay lõi lọc và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Karofi KAQ-C28.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S3",
+    "W2",
+    "VT3",
+    "NC1",
+    "CN1",
+    "BT1",
+    "SV1"
+   ],
+   "kq": "SP6"
+  },
+  {
+   "id": 57,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần lọc nước uống, ưu tiên công nghệ RO, ưu tiên máy dễ thay lõi lọc và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Karofi KAQ-C28.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S1",
+    "W3",
+    "VT3",
+    "NC1",
+    "CN1",
+    "BT1",
+    "SV1"
+   ],
+   "kq": "SP6"
+  },
+  {
+   "id": 58,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần lọc nước uống, ưu tiên công nghệ RO, ưu tiên máy dễ thay lõi lọc và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Karofi KAQ-C28.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S2",
+    "W3",
+    "VT3",
+    "NC1",
+    "CN1",
+    "BT1",
+    "SV1"
+   ],
+   "kq": "SP6"
+  },
+  {
+   "id": 59,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần lọc nước uống, ưu tiên công nghệ RO, ưu tiên máy dễ thay lõi lọc và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Karofi KAQ-C28.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S3",
+    "W3",
+    "VT3",
+    "NC1",
+    "CN1",
+    "BT1",
+    "SV1"
+   ],
+   "kq": "SP6"
+  },
+  {
+   "id": 60,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, chưa xác định số người sử dụng, chưa xác định nguồn nước đầu vào, lắp đặt dạng tủ đứng/đặt sàn, cần lọc nước uống, ưu tiên công nghệ RO, ưu tiên máy dễ thay lõi lọc và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Karofi KAQ-C28.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S0",
+    "W0",
+    "VT3",
+    "NC1",
+    "CN1",
+    "BT1",
+    "SV1"
+   ],
+   "kq": "SP6"
+  },
+  {
+   "id": 61,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Karofi KAQ-D36.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S1",
+    "W1",
+    "VT3",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP7"
+  },
+  {
+   "id": 62,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Karofi KAQ-D36.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S2",
+    "W1",
+    "VT3",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP7"
+  },
+  {
+   "id": 63,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Karofi KAQ-D36.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S3",
+    "W1",
+    "VT3",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP7"
+  },
+  {
+   "id": 64,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Karofi KAQ-D36.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S1",
+    "W2",
+    "VT3",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP7"
+  },
+  {
+   "id": 65,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Karofi KAQ-D36.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S2",
+    "W2",
+    "VT3",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP7"
+  },
+  {
+   "id": 66,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Karofi KAQ-D36.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S3",
+    "W2",
+    "VT3",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP7"
+  },
+  {
+   "id": 67,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Karofi KAQ-D36.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S1",
+    "W3",
+    "VT3",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP7"
+  },
+  {
+   "id": 68,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Karofi KAQ-D36.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S2",
+    "W3",
+    "VT3",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP7"
+  },
+  {
+   "id": 69,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Karofi KAQ-D36.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S3",
+    "W3",
+    "VT3",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP7"
+  },
+  {
+   "id": 70,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, chưa xác định số người sử dụng, chưa xác định nguồn nước đầu vào, lắp đặt dạng tủ đứng/đặt sàn, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Karofi KAQ-D36.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S0",
+    "W0",
+    "VT3",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP7"
+  },
+  {
+   "id": 71,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, lắp đặt dưới bồn rửa, ưu tiên tiết kiệm diện tích, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Karofi KAQ-U50K.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S1",
+    "W1",
+    "VT2",
+    "NC3",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP8"
+  },
+  {
+   "id": 72,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước máy, lắp đặt dưới bồn rửa, ưu tiên tiết kiệm diện tích, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Karofi KAQ-U50K.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S2",
+    "W1",
+    "VT2",
+    "NC3",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP8"
+  },
+  {
+   "id": 73,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước máy, lắp đặt dưới bồn rửa, ưu tiên tiết kiệm diện tích, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Karofi KAQ-U50K.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S3",
+    "W1",
+    "VT2",
+    "NC3",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP8"
+  },
+  {
+   "id": 74,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước giếng, lắp đặt dưới bồn rửa, ưu tiên tiết kiệm diện tích, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Karofi KAQ-U50K.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S1",
+    "W2",
+    "VT2",
+    "NC3",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP8"
+  },
+  {
+   "id": 75,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước giếng, lắp đặt dưới bồn rửa, ưu tiên tiết kiệm diện tích, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Karofi KAQ-U50K.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S2",
+    "W2",
+    "VT2",
+    "NC3",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP8"
+  },
+  {
+   "id": 76,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước giếng, lắp đặt dưới bồn rửa, ưu tiên tiết kiệm diện tích, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Karofi KAQ-U50K.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S3",
+    "W2",
+    "VT2",
+    "NC3",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP8"
+  },
+  {
+   "id": 77,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nguồn nước khác, lắp đặt dưới bồn rửa, ưu tiên tiết kiệm diện tích, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Karofi KAQ-U50K.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S1",
+    "W3",
+    "VT2",
+    "NC3",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP8"
+  },
+  {
+   "id": 78,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nguồn nước khác, lắp đặt dưới bồn rửa, ưu tiên tiết kiệm diện tích, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Karofi KAQ-U50K.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S2",
+    "W3",
+    "VT2",
+    "NC3",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP8"
+  },
+  {
+   "id": 79,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nguồn nước khác, lắp đặt dưới bồn rửa, ưu tiên tiết kiệm diện tích, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Karofi KAQ-U50K.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S3",
+    "W3",
+    "VT2",
+    "NC3",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP8"
+  },
+  {
+   "id": 80,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, chưa xác định số người sử dụng, chưa xác định nguồn nước đầu vào, lắp đặt dưới bồn rửa, ưu tiên tiết kiệm diện tích, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Karofi KAQ-U50K.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S0",
+    "W0",
+    "VT2",
+    "NC3",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP8"
+  },
+  {
+   "id": 81,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, lắp đặt dưới bồn rửa, ưu tiên tiết kiệm diện tích, ưu tiên công nghệ RO, ưu tiên máy dễ thay lõi lọc và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Karofi KAQ-U96 PRO.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S1",
+    "W1",
+    "VT2",
+    "NC3",
+    "CN1",
+    "BT1",
+    "SV1"
+   ],
+   "kq": "SP9"
+  },
+  {
+   "id": 82,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước máy, lắp đặt dưới bồn rửa, ưu tiên tiết kiệm diện tích, ưu tiên công nghệ RO, ưu tiên máy dễ thay lõi lọc và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Karofi KAQ-U96 PRO.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S2",
+    "W1",
+    "VT2",
+    "NC3",
+    "CN1",
+    "BT1",
+    "SV1"
+   ],
+   "kq": "SP9"
+  },
+  {
+   "id": 83,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước máy, lắp đặt dưới bồn rửa, ưu tiên tiết kiệm diện tích, ưu tiên công nghệ RO, ưu tiên máy dễ thay lõi lọc và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Karofi KAQ-U96 PRO.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S3",
+    "W1",
+    "VT2",
+    "NC3",
+    "CN1",
+    "BT1",
+    "SV1"
+   ],
+   "kq": "SP9"
+  },
+  {
+   "id": 84,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước giếng, lắp đặt dưới bồn rửa, ưu tiên tiết kiệm diện tích, ưu tiên công nghệ RO, ưu tiên máy dễ thay lõi lọc và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Karofi KAQ-U96 PRO.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S1",
+    "W2",
+    "VT2",
+    "NC3",
+    "CN1",
+    "BT1",
+    "SV1"
+   ],
+   "kq": "SP9"
+  },
+  {
+   "id": 85,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước giếng, lắp đặt dưới bồn rửa, ưu tiên tiết kiệm diện tích, ưu tiên công nghệ RO, ưu tiên máy dễ thay lõi lọc và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Karofi KAQ-U96 PRO.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S2",
+    "W2",
+    "VT2",
+    "NC3",
+    "CN1",
+    "BT1",
+    "SV1"
+   ],
+   "kq": "SP9"
+  },
+  {
+   "id": 86,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước giếng, lắp đặt dưới bồn rửa, ưu tiên tiết kiệm diện tích, ưu tiên công nghệ RO, ưu tiên máy dễ thay lõi lọc và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Karofi KAQ-U96 PRO.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S3",
+    "W2",
+    "VT2",
+    "NC3",
+    "CN1",
+    "BT1",
+    "SV1"
+   ],
+   "kq": "SP9"
+  },
+  {
+   "id": 87,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nguồn nước khác, lắp đặt dưới bồn rửa, ưu tiên tiết kiệm diện tích, ưu tiên công nghệ RO, ưu tiên máy dễ thay lõi lọc và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Karofi KAQ-U96 PRO.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S1",
+    "W3",
+    "VT2",
+    "NC3",
+    "CN1",
+    "BT1",
+    "SV1"
+   ],
+   "kq": "SP9"
+  },
+  {
+   "id": 88,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nguồn nước khác, lắp đặt dưới bồn rửa, ưu tiên tiết kiệm diện tích, ưu tiên công nghệ RO, ưu tiên máy dễ thay lõi lọc và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Karofi KAQ-U96 PRO.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S2",
+    "W3",
+    "VT2",
+    "NC3",
+    "CN1",
+    "BT1",
+    "SV1"
+   ],
+   "kq": "SP9"
+  },
+  {
+   "id": 89,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nguồn nước khác, lắp đặt dưới bồn rửa, ưu tiên tiết kiệm diện tích, ưu tiên công nghệ RO, ưu tiên máy dễ thay lõi lọc và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Karofi KAQ-U96 PRO.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S3",
+    "W3",
+    "VT2",
+    "NC3",
+    "CN1",
+    "BT1",
+    "SV1"
+   ],
+   "kq": "SP9"
+  },
+  {
+   "id": 90,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, chưa xác định số người sử dụng, chưa xác định nguồn nước đầu vào, lắp đặt dưới bồn rửa, ưu tiên tiết kiệm diện tích, ưu tiên công nghệ RO, ưu tiên máy dễ thay lõi lọc và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Karofi KAQ-U96 PRO.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S0",
+    "W0",
+    "VT2",
+    "NC3",
+    "CN1",
+    "BT1",
+    "SV1"
+   ],
+   "kq": "SP9"
+  },
+  {
+   "id": 91,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Karofi KAD-L55.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S1",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP10"
+  },
+  {
+   "id": 92,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Karofi KAD-L55.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S2",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP10"
+  },
+  {
+   "id": 93,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Karofi KAD-L55.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S3",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP10"
+  },
+  {
+   "id": 94,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Karofi KAD-L55.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S1",
+    "W2",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP10"
+  },
+  {
+   "id": 95,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Karofi KAD-L55.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S2",
+    "W2",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP10"
+  },
+  {
+   "id": 96,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Karofi KAD-L55.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S3",
+    "W2",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP10"
+  },
+  {
+   "id": 97,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Karofi KAD-L55.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S1",
+    "W3",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP10"
+  },
+  {
+   "id": 98,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Karofi KAD-L55.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S2",
+    "W3",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP10"
+  },
+  {
+   "id": 99,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Karofi KAD-L55.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S3",
+    "W3",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP10"
+  },
+  {
+   "id": 100,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, chưa xác định số người sử dụng, chưa xác định nguồn nước đầu vào, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Karofi KAD-L55.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S0",
+    "W0",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP10"
+  },
+  {
+   "id": 101,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh, RO và Hydrogen thì nên tham khảo máy lọc nước Sunhouse SHA76210KL.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S1",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV7"
+   ],
+   "kq": "SP11"
+  },
+  {
+   "id": 102,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh, RO và Hydrogen thì nên tham khảo máy lọc nước Sunhouse SHA76210KL.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S2",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV7"
+   ],
+   "kq": "SP11"
+  },
+  {
+   "id": 103,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh, RO và Hydrogen thì nên tham khảo máy lọc nước Sunhouse SHA76210KL.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S3",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV7"
+   ],
+   "kq": "SP11"
+  },
+  {
+   "id": 104,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh, RO và Hydrogen thì nên tham khảo máy lọc nước Sunhouse SHA76210KL.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S1",
+    "W2",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV7"
+   ],
+   "kq": "SP11"
+  },
+  {
+   "id": 105,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh, RO và Hydrogen thì nên tham khảo máy lọc nước Sunhouse SHA76210KL.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S2",
+    "W2",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV7"
+   ],
+   "kq": "SP11"
+  },
+  {
+   "id": 106,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh, RO và Hydrogen thì nên tham khảo máy lọc nước Sunhouse SHA76210KL.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S3",
+    "W2",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV7"
+   ],
+   "kq": "SP11"
+  },
+  {
+   "id": 107,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh, RO và Hydrogen thì nên tham khảo máy lọc nước Sunhouse SHA76210KL.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S1",
+    "W3",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV7"
+   ],
+   "kq": "SP11"
+  },
+  {
+   "id": 108,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh, RO và Hydrogen thì nên tham khảo máy lọc nước Sunhouse SHA76210KL.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S2",
+    "W3",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV7"
+   ],
+   "kq": "SP11"
+  },
+  {
+   "id": 109,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh, RO và Hydrogen thì nên tham khảo máy lọc nước Sunhouse SHA76210KL.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S3",
+    "W3",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV7"
+   ],
+   "kq": "SP11"
+  },
+  {
+   "id": 110,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, chưa xác định số người sử dụng, chưa xác định nguồn nước đầu vào, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh, RO và Hydrogen thì nên tham khảo máy lọc nước Sunhouse SHA76210KL.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S0",
+    "W0",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV7"
+   ],
+   "kq": "SP11"
+  },
+  {
+   "id": 111,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có tổ hợp số vòi/chức năng khác thì nên tham khảo máy lọc nước Sunhouse SHA76658SH.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S1",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV8"
+   ],
+   "kq": "SP12"
+  },
+  {
+   "id": 112,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có tổ hợp số vòi/chức năng khác thì nên tham khảo máy lọc nước Sunhouse SHA76658SH.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S2",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV8"
+   ],
+   "kq": "SP12"
+  },
+  {
+   "id": 113,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có tổ hợp số vòi/chức năng khác thì nên tham khảo máy lọc nước Sunhouse SHA76658SH.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S3",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV8"
+   ],
+   "kq": "SP12"
+  },
+  {
+   "id": 114,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có tổ hợp số vòi/chức năng khác thì nên tham khảo máy lọc nước Sunhouse SHA76658SH.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S1",
+    "W2",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV8"
+   ],
+   "kq": "SP12"
+  },
+  {
+   "id": 115,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có tổ hợp số vòi/chức năng khác thì nên tham khảo máy lọc nước Sunhouse SHA76658SH.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S2",
+    "W2",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV8"
+   ],
+   "kq": "SP12"
+  },
+  {
+   "id": 116,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có tổ hợp số vòi/chức năng khác thì nên tham khảo máy lọc nước Sunhouse SHA76658SH.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S3",
+    "W2",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV8"
+   ],
+   "kq": "SP12"
+  },
+  {
+   "id": 117,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có tổ hợp số vòi/chức năng khác thì nên tham khảo máy lọc nước Sunhouse SHA76658SH.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S1",
+    "W3",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV8"
+   ],
+   "kq": "SP12"
+  },
+  {
+   "id": 118,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có tổ hợp số vòi/chức năng khác thì nên tham khảo máy lọc nước Sunhouse SHA76658SH.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S2",
+    "W3",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV8"
+   ],
+   "kq": "SP12"
+  },
+  {
+   "id": 119,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có tổ hợp số vòi/chức năng khác thì nên tham khảo máy lọc nước Sunhouse SHA76658SH.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S3",
+    "W3",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV8"
+   ],
+   "kq": "SP12"
+  },
+  {
+   "id": 120,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, chưa xác định số người sử dụng, chưa xác định nguồn nước đầu vào, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có tổ hợp số vòi/chức năng khác thì nên tham khảo máy lọc nước Sunhouse SHA76658SH.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S0",
+    "W0",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV8"
+   ],
+   "kq": "SP12"
+  },
+  {
+   "id": 121,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có tổ hợp số vòi/chức năng khác thì nên tham khảo máy lọc nước Sunhouse SHA76668SH.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S1",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV8"
+   ],
+   "kq": "SP13"
+  },
+  {
+   "id": 122,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có tổ hợp số vòi/chức năng khác thì nên tham khảo máy lọc nước Sunhouse SHA76668SH.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S2",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV8"
+   ],
+   "kq": "SP13"
+  },
+  {
+   "id": 123,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có tổ hợp số vòi/chức năng khác thì nên tham khảo máy lọc nước Sunhouse SHA76668SH.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S3",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV8"
+   ],
+   "kq": "SP13"
+  },
+  {
+   "id": 124,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có tổ hợp số vòi/chức năng khác thì nên tham khảo máy lọc nước Sunhouse SHA76668SH.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S1",
+    "W2",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV8"
+   ],
+   "kq": "SP13"
+  },
+  {
+   "id": 125,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có tổ hợp số vòi/chức năng khác thì nên tham khảo máy lọc nước Sunhouse SHA76668SH.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S2",
+    "W2",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV8"
+   ],
+   "kq": "SP13"
+  },
+  {
+   "id": 126,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có tổ hợp số vòi/chức năng khác thì nên tham khảo máy lọc nước Sunhouse SHA76668SH.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S3",
+    "W2",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV8"
+   ],
+   "kq": "SP13"
+  },
+  {
+   "id": 127,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có tổ hợp số vòi/chức năng khác thì nên tham khảo máy lọc nước Sunhouse SHA76668SH.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S1",
+    "W3",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV8"
+   ],
+   "kq": "SP13"
+  },
+  {
+   "id": 128,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có tổ hợp số vòi/chức năng khác thì nên tham khảo máy lọc nước Sunhouse SHA76668SH.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S2",
+    "W3",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV8"
+   ],
+   "kq": "SP13"
+  },
+  {
+   "id": 129,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có tổ hợp số vòi/chức năng khác thì nên tham khảo máy lọc nước Sunhouse SHA76668SH.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S3",
+    "W3",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV8"
+   ],
+   "kq": "SP13"
+  },
+  {
+   "id": 130,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, chưa xác định số người sử dụng, chưa xác định nguồn nước đầu vào, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có tổ hợp số vòi/chức năng khác thì nên tham khảo máy lọc nước Sunhouse SHA76668SH.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S0",
+    "W0",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV8"
+   ],
+   "kq": "SP13"
+  },
+  {
+   "id": 131,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Sunhouse SHA8606U.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S1",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP14"
+  },
+  {
+   "id": 132,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Sunhouse SHA8606U.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S2",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP14"
+  },
+  {
+   "id": 133,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Sunhouse SHA8606U.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S3",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP14"
+  },
+  {
+   "id": 134,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Sunhouse SHA8606U.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S1",
+    "W2",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP14"
+  },
+  {
+   "id": 135,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Sunhouse SHA8606U.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S2",
+    "W2",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP14"
+  },
+  {
+   "id": 136,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Sunhouse SHA8606U.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S3",
+    "W2",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP14"
+  },
+  {
+   "id": 137,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Sunhouse SHA8606U.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S1",
+    "W3",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP14"
+  },
+  {
+   "id": 138,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Sunhouse SHA8606U.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S2",
+    "W3",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP14"
+  },
+  {
+   "id": 139,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Sunhouse SHA8606U.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S3",
+    "W3",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP14"
+  },
+  {
+   "id": 140,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, chưa xác định số người sử dụng, chưa xác định nguồn nước đầu vào, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Sunhouse SHA8606U.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S0",
+    "W0",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP14"
+  },
+  {
+   "id": 141,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Sunhouse SHA8879K.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S1",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP15"
+  },
+  {
+   "id": 142,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Sunhouse SHA8879K.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S2",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP15"
+  },
+  {
+   "id": 143,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Sunhouse SHA8879K.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S3",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP15"
+  },
+  {
+   "id": 144,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Sunhouse SHA8879K.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S1",
+    "W2",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP15"
+  },
+  {
+   "id": 145,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Sunhouse SHA8879K.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S2",
+    "W2",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP15"
+  },
+  {
+   "id": 146,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Sunhouse SHA8879K.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S3",
+    "W2",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP15"
+  },
+  {
+   "id": 147,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Sunhouse SHA8879K.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S1",
+    "W3",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP15"
+  },
+  {
+   "id": 148,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Sunhouse SHA8879K.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S2",
+    "W3",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP15"
+  },
+  {
+   "id": 149,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Sunhouse SHA8879K.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S3",
+    "W3",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP15"
+  },
+  {
+   "id": 150,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, chưa xác định số người sử dụng, chưa xác định nguồn nước đầu vào, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Sunhouse SHA8879K.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S0",
+    "W0",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP15"
+  },
+  {
+   "id": 151,
+   "dien_giai": "Nếu bạn ưu tiên hãng Toshiba, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và nguội thì nên tham khảo máy lọc nước Toshiba TWP-WA3SVN(K).",
+   "dk": [
+    "TH4",
+    "N3",
+    "S1",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV4"
+   ],
+   "kq": "SP16"
+  },
+  {
+   "id": 152,
+   "dien_giai": "Nếu bạn ưu tiên hãng Toshiba, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và nguội thì nên tham khảo máy lọc nước Toshiba TWP-WA3SVN(K).",
+   "dk": [
+    "TH4",
+    "N3",
+    "S2",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV4"
+   ],
+   "kq": "SP16"
+  },
+  {
+   "id": 153,
+   "dien_giai": "Nếu bạn ưu tiên hãng Toshiba, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và nguội thì nên tham khảo máy lọc nước Toshiba TWP-WA3SVN(K).",
+   "dk": [
+    "TH4",
+    "N3",
+    "S3",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV4"
+   ],
+   "kq": "SP16"
+  },
+  {
+   "id": 154,
+   "dien_giai": "Nếu bạn ưu tiên hãng Toshiba, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và nguội thì nên tham khảo máy lọc nước Toshiba TWP-WA3SVN(K).",
+   "dk": [
+    "TH4",
+    "N3",
+    "S1",
+    "W2",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV4"
+   ],
+   "kq": "SP16"
+  },
+  {
+   "id": 155,
+   "dien_giai": "Nếu bạn ưu tiên hãng Toshiba, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và nguội thì nên tham khảo máy lọc nước Toshiba TWP-WA3SVN(K).",
+   "dk": [
+    "TH4",
+    "N3",
+    "S2",
+    "W2",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV4"
+   ],
+   "kq": "SP16"
+  },
+  {
+   "id": 156,
+   "dien_giai": "Nếu bạn ưu tiên hãng Toshiba, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và nguội thì nên tham khảo máy lọc nước Toshiba TWP-WA3SVN(K).",
+   "dk": [
+    "TH4",
+    "N3",
+    "S3",
+    "W2",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV4"
+   ],
+   "kq": "SP16"
+  },
+  {
+   "id": 157,
+   "dien_giai": "Nếu bạn ưu tiên hãng Toshiba, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và nguội thì nên tham khảo máy lọc nước Toshiba TWP-WA3SVN(K).",
+   "dk": [
+    "TH4",
+    "N3",
+    "S1",
+    "W3",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV4"
+   ],
+   "kq": "SP16"
+  },
+  {
+   "id": 158,
+   "dien_giai": "Nếu bạn ưu tiên hãng Toshiba, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và nguội thì nên tham khảo máy lọc nước Toshiba TWP-WA3SVN(K).",
+   "dk": [
+    "TH4",
+    "N3",
+    "S2",
+    "W3",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV4"
+   ],
+   "kq": "SP16"
+  },
+  {
+   "id": 159,
+   "dien_giai": "Nếu bạn ưu tiên hãng Toshiba, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và nguội thì nên tham khảo máy lọc nước Toshiba TWP-WA3SVN(K).",
+   "dk": [
+    "TH4",
+    "N3",
+    "S3",
+    "W3",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV4"
+   ],
+   "kq": "SP16"
+  },
+  {
+   "id": 160,
+   "dien_giai": "Nếu bạn ưu tiên hãng Toshiba, ngân sách trên 5 triệu đồng, chưa xác định số người sử dụng, chưa xác định nguồn nước đầu vào, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và nguội thì nên tham khảo máy lọc nước Toshiba TWP-WA3SVN(K).",
+   "dk": [
+    "TH4",
+    "N3",
+    "S0",
+    "W0",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV4"
+   ],
+   "kq": "SP16"
+  },
+  {
+   "id": 161,
+   "dien_giai": "Nếu bạn ưu tiên hãng Toshiba, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và nguội thì nên tham khảo máy lọc nước Toshiba TWP-NA1SVN(K).",
+   "dk": [
+    "TH4",
+    "N3",
+    "S1",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV4"
+   ],
+   "kq": "SP17"
+  },
+  {
+   "id": 162,
+   "dien_giai": "Nếu bạn ưu tiên hãng Toshiba, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và nguội thì nên tham khảo máy lọc nước Toshiba TWP-NA1SVN(K).",
+   "dk": [
+    "TH4",
+    "N3",
+    "S2",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV4"
+   ],
+   "kq": "SP17"
+  },
+  {
+   "id": 163,
+   "dien_giai": "Nếu bạn ưu tiên hãng Toshiba, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và nguội thì nên tham khảo máy lọc nước Toshiba TWP-NA1SVN(K).",
+   "dk": [
+    "TH4",
+    "N3",
+    "S3",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV4"
+   ],
+   "kq": "SP17"
+  },
+  {
+   "id": 164,
+   "dien_giai": "Nếu bạn ưu tiên hãng Toshiba, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và nguội thì nên tham khảo máy lọc nước Toshiba TWP-NA1SVN(K).",
+   "dk": [
+    "TH4",
+    "N3",
+    "S1",
+    "W2",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV4"
+   ],
+   "kq": "SP17"
+  },
+  {
+   "id": 165,
+   "dien_giai": "Nếu bạn ưu tiên hãng Toshiba, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và nguội thì nên tham khảo máy lọc nước Toshiba TWP-NA1SVN(K).",
+   "dk": [
+    "TH4",
+    "N3",
+    "S2",
+    "W2",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV4"
+   ],
+   "kq": "SP17"
+  },
+  {
+   "id": 166,
+   "dien_giai": "Nếu bạn ưu tiên hãng Toshiba, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và nguội thì nên tham khảo máy lọc nước Toshiba TWP-NA1SVN(K).",
+   "dk": [
+    "TH4",
+    "N3",
+    "S3",
+    "W2",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV4"
+   ],
+   "kq": "SP17"
+  },
+  {
+   "id": 167,
+   "dien_giai": "Nếu bạn ưu tiên hãng Toshiba, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và nguội thì nên tham khảo máy lọc nước Toshiba TWP-NA1SVN(K).",
+   "dk": [
+    "TH4",
+    "N3",
+    "S1",
+    "W3",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV4"
+   ],
+   "kq": "SP17"
+  },
+  {
+   "id": 168,
+   "dien_giai": "Nếu bạn ưu tiên hãng Toshiba, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và nguội thì nên tham khảo máy lọc nước Toshiba TWP-NA1SVN(K).",
+   "dk": [
+    "TH4",
+    "N3",
+    "S2",
+    "W3",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV4"
+   ],
+   "kq": "SP17"
+  },
+  {
+   "id": 169,
+   "dien_giai": "Nếu bạn ưu tiên hãng Toshiba, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và nguội thì nên tham khảo máy lọc nước Toshiba TWP-NA1SVN(K).",
+   "dk": [
+    "TH4",
+    "N3",
+    "S3",
+    "W3",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV4"
+   ],
+   "kq": "SP17"
+  },
+  {
+   "id": 170,
+   "dien_giai": "Nếu bạn ưu tiên hãng Toshiba, ngân sách trên 5 triệu đồng, chưa xác định số người sử dụng, chưa xác định nguồn nước đầu vào, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và nguội thì nên tham khảo máy lọc nước Toshiba TWP-NA1SVN(K).",
+   "dk": [
+    "TH4",
+    "N3",
+    "S0",
+    "W0",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV4"
+   ],
+   "kq": "SP17"
+  },
+  {
+   "id": 171,
+   "dien_giai": "Nếu bạn ưu tiên hãng A. O. Smith, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, lắp đặt dưới bồn rửa, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước A. O. Smith R400E.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S1",
+    "W1",
+    "VT2",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP18"
+  },
+  {
+   "id": 172,
+   "dien_giai": "Nếu bạn ưu tiên hãng A. O. Smith, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước máy, lắp đặt dưới bồn rửa, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước A. O. Smith R400E.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S2",
+    "W1",
+    "VT2",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP18"
+  },
+  {
+   "id": 173,
+   "dien_giai": "Nếu bạn ưu tiên hãng A. O. Smith, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước máy, lắp đặt dưới bồn rửa, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước A. O. Smith R400E.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S3",
+    "W1",
+    "VT2",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP18"
+  },
+  {
+   "id": 174,
+   "dien_giai": "Nếu bạn ưu tiên hãng A. O. Smith, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước giếng, lắp đặt dưới bồn rửa, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước A. O. Smith R400E.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S1",
+    "W2",
+    "VT2",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP18"
+  },
+  {
+   "id": 175,
+   "dien_giai": "Nếu bạn ưu tiên hãng A. O. Smith, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước giếng, lắp đặt dưới bồn rửa, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước A. O. Smith R400E.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S2",
+    "W2",
+    "VT2",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP18"
+  },
+  {
+   "id": 176,
+   "dien_giai": "Nếu bạn ưu tiên hãng A. O. Smith, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước giếng, lắp đặt dưới bồn rửa, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước A. O. Smith R400E.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S3",
+    "W2",
+    "VT2",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP18"
+  },
+  {
+   "id": 177,
+   "dien_giai": "Nếu bạn ưu tiên hãng A. O. Smith, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nguồn nước khác, lắp đặt dưới bồn rửa, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước A. O. Smith R400E.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S1",
+    "W3",
+    "VT2",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP18"
+  },
+  {
+   "id": 178,
+   "dien_giai": "Nếu bạn ưu tiên hãng A. O. Smith, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nguồn nước khác, lắp đặt dưới bồn rửa, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước A. O. Smith R400E.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S2",
+    "W3",
+    "VT2",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP18"
+  },
+  {
+   "id": 179,
+   "dien_giai": "Nếu bạn ưu tiên hãng A. O. Smith, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nguồn nước khác, lắp đặt dưới bồn rửa, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước A. O. Smith R400E.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S3",
+    "W3",
+    "VT2",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP18"
+  },
+  {
+   "id": 180,
+   "dien_giai": "Nếu bạn ưu tiên hãng A. O. Smith, ngân sách trên 5 triệu đồng, chưa xác định số người sử dụng, chưa xác định nguồn nước đầu vào, lắp đặt dưới bồn rửa, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước A. O. Smith R400E.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S0",
+    "W0",
+    "VT2",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP18"
+  },
+  {
+   "id": 181,
+   "dien_giai": "Nếu bạn ưu tiên hãng A. O. Smith, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, lắp đặt dưới bồn rửa, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước A. O. Smith R700Slim.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S1",
+    "W1",
+    "VT2",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP19"
+  },
+  {
+   "id": 182,
+   "dien_giai": "Nếu bạn ưu tiên hãng A. O. Smith, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước máy, lắp đặt dưới bồn rửa, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước A. O. Smith R700Slim.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S2",
+    "W1",
+    "VT2",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP19"
+  },
+  {
+   "id": 183,
+   "dien_giai": "Nếu bạn ưu tiên hãng A. O. Smith, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước máy, lắp đặt dưới bồn rửa, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước A. O. Smith R700Slim.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S3",
+    "W1",
+    "VT2",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP19"
+  },
+  {
+   "id": 184,
+   "dien_giai": "Nếu bạn ưu tiên hãng A. O. Smith, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước giếng, lắp đặt dưới bồn rửa, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước A. O. Smith R700Slim.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S1",
+    "W2",
+    "VT2",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP19"
+  },
+  {
+   "id": 185,
+   "dien_giai": "Nếu bạn ưu tiên hãng A. O. Smith, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước giếng, lắp đặt dưới bồn rửa, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước A. O. Smith R700Slim.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S2",
+    "W2",
+    "VT2",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP19"
+  },
+  {
+   "id": 186,
+   "dien_giai": "Nếu bạn ưu tiên hãng A. O. Smith, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước giếng, lắp đặt dưới bồn rửa, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước A. O. Smith R700Slim.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S3",
+    "W2",
+    "VT2",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP19"
+  },
+  {
+   "id": 187,
+   "dien_giai": "Nếu bạn ưu tiên hãng A. O. Smith, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nguồn nước khác, lắp đặt dưới bồn rửa, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước A. O. Smith R700Slim.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S1",
+    "W3",
+    "VT2",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP19"
+  },
+  {
+   "id": 188,
+   "dien_giai": "Nếu bạn ưu tiên hãng A. O. Smith, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nguồn nước khác, lắp đặt dưới bồn rửa, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước A. O. Smith R700Slim.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S2",
+    "W3",
+    "VT2",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP19"
+  },
+  {
+   "id": 189,
+   "dien_giai": "Nếu bạn ưu tiên hãng A. O. Smith, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nguồn nước khác, lắp đặt dưới bồn rửa, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước A. O. Smith R700Slim.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S3",
+    "W3",
+    "VT2",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP19"
+  },
+  {
+   "id": 190,
+   "dien_giai": "Nếu bạn ưu tiên hãng A. O. Smith, ngân sách trên 5 triệu đồng, chưa xác định số người sử dụng, chưa xác định nguồn nước đầu vào, lắp đặt dưới bồn rửa, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước A. O. Smith R700Slim.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S0",
+    "W0",
+    "VT2",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP19"
+  },
+  {
+   "id": 191,
+   "dien_giai": "Nếu bạn ưu tiên hãng A. O. Smith, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, lắp đặt dưới bồn rửa, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước A. O. Smith S600.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S1",
+    "W1",
+    "VT2",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP20"
+  },
+  {
+   "id": 192,
+   "dien_giai": "Nếu bạn ưu tiên hãng A. O. Smith, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước máy, lắp đặt dưới bồn rửa, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước A. O. Smith S600.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S2",
+    "W1",
+    "VT2",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP20"
+  },
+  {
+   "id": 193,
+   "dien_giai": "Nếu bạn ưu tiên hãng A. O. Smith, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước máy, lắp đặt dưới bồn rửa, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước A. O. Smith S600.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S3",
+    "W1",
+    "VT2",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP20"
+  },
+  {
+   "id": 194,
+   "dien_giai": "Nếu bạn ưu tiên hãng A. O. Smith, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước giếng, lắp đặt dưới bồn rửa, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước A. O. Smith S600.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S1",
+    "W2",
+    "VT2",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP20"
+  },
+  {
+   "id": 195,
+   "dien_giai": "Nếu bạn ưu tiên hãng A. O. Smith, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước giếng, lắp đặt dưới bồn rửa, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước A. O. Smith S600.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S2",
+    "W2",
+    "VT2",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP20"
+  },
+  {
+   "id": 196,
+   "dien_giai": "Nếu bạn ưu tiên hãng A. O. Smith, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước giếng, lắp đặt dưới bồn rửa, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước A. O. Smith S600.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S3",
+    "W2",
+    "VT2",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP20"
+  },
+  {
+   "id": 197,
+   "dien_giai": "Nếu bạn ưu tiên hãng A. O. Smith, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nguồn nước khác, lắp đặt dưới bồn rửa, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước A. O. Smith S600.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S1",
+    "W3",
+    "VT2",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP20"
+  },
+  {
+   "id": 198,
+   "dien_giai": "Nếu bạn ưu tiên hãng A. O. Smith, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nguồn nước khác, lắp đặt dưới bồn rửa, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước A. O. Smith S600.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S2",
+    "W3",
+    "VT2",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP20"
+  },
+  {
+   "id": 199,
+   "dien_giai": "Nếu bạn ưu tiên hãng A. O. Smith, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nguồn nước khác, lắp đặt dưới bồn rửa, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước A. O. Smith S600.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S3",
+    "W3",
+    "VT2",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP20"
+  },
+  {
+   "id": 200,
+   "dien_giai": "Nếu bạn ưu tiên hãng A. O. Smith, ngân sách trên 5 triệu đồng, chưa xác định số người sử dụng, chưa xác định nguồn nước đầu vào, lắp đặt dưới bồn rửa, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước A. O. Smith S600.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S0",
+    "W0",
+    "VT2",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP20"
+  },
+  {
+   "id": 201,
+   "dien_giai": "Nếu bạn ưu tiên hãng Mutosi, ngân sách từ 3 đến 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, chưa có yêu cầu cụ thể về vị trí lắp đặt, cần lọc nước uống, chưa có yêu cầu cụ thể về công nghệ lọc, không có yêu cầu cụ thể về bảo trì và mong muốn máy có không yêu cầu cụ thể về số vòi/chức năng thì nên tham khảo máy lọc nước Mutosi MP-1101.",
+   "dk": [
+    "TH5",
+    "N2",
+    "S1",
+    "W1",
+    "VT0",
+    "NC1",
+    "CN0",
+    "BT0",
+    "SV0"
+   ],
+   "kq": "SP21"
+  },
+  {
+   "id": 202,
+   "dien_giai": "Nếu bạn ưu tiên hãng Mutosi, ngân sách từ 3 đến 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước máy, chưa có yêu cầu cụ thể về vị trí lắp đặt, cần lọc nước uống, chưa có yêu cầu cụ thể về công nghệ lọc, không có yêu cầu cụ thể về bảo trì và mong muốn máy có không yêu cầu cụ thể về số vòi/chức năng thì nên tham khảo máy lọc nước Mutosi MP-1101.",
+   "dk": [
+    "TH5",
+    "N2",
+    "S2",
+    "W1",
+    "VT0",
+    "NC1",
+    "CN0",
+    "BT0",
+    "SV0"
+   ],
+   "kq": "SP21"
+  },
+  {
+   "id": 203,
+   "dien_giai": "Nếu bạn ưu tiên hãng Mutosi, ngân sách từ 3 đến 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước máy, chưa có yêu cầu cụ thể về vị trí lắp đặt, cần lọc nước uống, chưa có yêu cầu cụ thể về công nghệ lọc, không có yêu cầu cụ thể về bảo trì và mong muốn máy có không yêu cầu cụ thể về số vòi/chức năng thì nên tham khảo máy lọc nước Mutosi MP-1101.",
+   "dk": [
+    "TH5",
+    "N2",
+    "S3",
+    "W1",
+    "VT0",
+    "NC1",
+    "CN0",
+    "BT0",
+    "SV0"
+   ],
+   "kq": "SP21"
+  },
+  {
+   "id": 204,
+   "dien_giai": "Nếu bạn ưu tiên hãng Mutosi, ngân sách từ 3 đến 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước giếng, chưa có yêu cầu cụ thể về vị trí lắp đặt, cần lọc nước uống, chưa có yêu cầu cụ thể về công nghệ lọc, không có yêu cầu cụ thể về bảo trì và mong muốn máy có không yêu cầu cụ thể về số vòi/chức năng thì nên tham khảo máy lọc nước Mutosi MP-1101.",
+   "dk": [
+    "TH5",
+    "N2",
+    "S1",
+    "W2",
+    "VT0",
+    "NC1",
+    "CN0",
+    "BT0",
+    "SV0"
+   ],
+   "kq": "SP21"
+  },
+  {
+   "id": 205,
+   "dien_giai": "Nếu bạn ưu tiên hãng Mutosi, ngân sách từ 3 đến 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước giếng, chưa có yêu cầu cụ thể về vị trí lắp đặt, cần lọc nước uống, chưa có yêu cầu cụ thể về công nghệ lọc, không có yêu cầu cụ thể về bảo trì và mong muốn máy có không yêu cầu cụ thể về số vòi/chức năng thì nên tham khảo máy lọc nước Mutosi MP-1101.",
+   "dk": [
+    "TH5",
+    "N2",
+    "S2",
+    "W2",
+    "VT0",
+    "NC1",
+    "CN0",
+    "BT0",
+    "SV0"
+   ],
+   "kq": "SP21"
+  },
+  {
+   "id": 206,
+   "dien_giai": "Nếu bạn ưu tiên hãng Mutosi, ngân sách từ 3 đến 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước giếng, chưa có yêu cầu cụ thể về vị trí lắp đặt, cần lọc nước uống, chưa có yêu cầu cụ thể về công nghệ lọc, không có yêu cầu cụ thể về bảo trì và mong muốn máy có không yêu cầu cụ thể về số vòi/chức năng thì nên tham khảo máy lọc nước Mutosi MP-1101.",
+   "dk": [
+    "TH5",
+    "N2",
+    "S3",
+    "W2",
+    "VT0",
+    "NC1",
+    "CN0",
+    "BT0",
+    "SV0"
+   ],
+   "kq": "SP21"
+  },
+  {
+   "id": 207,
+   "dien_giai": "Nếu bạn ưu tiên hãng Mutosi, ngân sách từ 3 đến 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nguồn nước khác, chưa có yêu cầu cụ thể về vị trí lắp đặt, cần lọc nước uống, chưa có yêu cầu cụ thể về công nghệ lọc, không có yêu cầu cụ thể về bảo trì và mong muốn máy có không yêu cầu cụ thể về số vòi/chức năng thì nên tham khảo máy lọc nước Mutosi MP-1101.",
+   "dk": [
+    "TH5",
+    "N2",
+    "S1",
+    "W3",
+    "VT0",
+    "NC1",
+    "CN0",
+    "BT0",
+    "SV0"
+   ],
+   "kq": "SP21"
+  },
+  {
+   "id": 208,
+   "dien_giai": "Nếu bạn ưu tiên hãng Mutosi, ngân sách từ 3 đến 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nguồn nước khác, chưa có yêu cầu cụ thể về vị trí lắp đặt, cần lọc nước uống, chưa có yêu cầu cụ thể về công nghệ lọc, không có yêu cầu cụ thể về bảo trì và mong muốn máy có không yêu cầu cụ thể về số vòi/chức năng thì nên tham khảo máy lọc nước Mutosi MP-1101.",
+   "dk": [
+    "TH5",
+    "N2",
+    "S2",
+    "W3",
+    "VT0",
+    "NC1",
+    "CN0",
+    "BT0",
+    "SV0"
+   ],
+   "kq": "SP21"
+  },
+  {
+   "id": 209,
+   "dien_giai": "Nếu bạn ưu tiên hãng Mutosi, ngân sách từ 3 đến 5 triệu đồng, có trên 5 người sử dụng, sử dụng nguồn nước khác, chưa có yêu cầu cụ thể về vị trí lắp đặt, cần lọc nước uống, chưa có yêu cầu cụ thể về công nghệ lọc, không có yêu cầu cụ thể về bảo trì và mong muốn máy có không yêu cầu cụ thể về số vòi/chức năng thì nên tham khảo máy lọc nước Mutosi MP-1101.",
+   "dk": [
+    "TH5",
+    "N2",
+    "S3",
+    "W3",
+    "VT0",
+    "NC1",
+    "CN0",
+    "BT0",
+    "SV0"
+   ],
+   "kq": "SP21"
+  },
+  {
+   "id": 210,
+   "dien_giai": "Nếu bạn ưu tiên hãng Mutosi, ngân sách từ 3 đến 5 triệu đồng, chưa xác định số người sử dụng, chưa xác định nguồn nước đầu vào, chưa có yêu cầu cụ thể về vị trí lắp đặt, cần lọc nước uống, chưa có yêu cầu cụ thể về công nghệ lọc, không có yêu cầu cụ thể về bảo trì và mong muốn máy có không yêu cầu cụ thể về số vòi/chức năng thì nên tham khảo máy lọc nước Mutosi MP-1101.",
+   "dk": [
+    "TH5",
+    "N2",
+    "S0",
+    "W0",
+    "VT0",
+    "NC1",
+    "CN0",
+    "BT0",
+    "SV0"
+   ],
+   "kq": "SP21"
+  },
+  {
+   "id": 211,
+   "dien_giai": "Nếu bạn ưu tiên hãng Mutosi, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Mutosi MP-S129.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S1",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP22"
+  },
+  {
+   "id": 212,
+   "dien_giai": "Nếu bạn ưu tiên hãng Mutosi, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Mutosi MP-S129.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S2",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP22"
+  },
+  {
+   "id": 213,
+   "dien_giai": "Nếu bạn ưu tiên hãng Mutosi, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Mutosi MP-S129.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S3",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP22"
+  },
+  {
+   "id": 214,
+   "dien_giai": "Nếu bạn ưu tiên hãng Mutosi, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Mutosi MP-S129.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S1",
+    "W2",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP22"
+  },
+  {
+   "id": 215,
+   "dien_giai": "Nếu bạn ưu tiên hãng Mutosi, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Mutosi MP-S129.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S2",
+    "W2",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP22"
+  },
+  {
+   "id": 216,
+   "dien_giai": "Nếu bạn ưu tiên hãng Mutosi, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Mutosi MP-S129.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S3",
+    "W2",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP22"
+  },
+  {
+   "id": 217,
+   "dien_giai": "Nếu bạn ưu tiên hãng Mutosi, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Mutosi MP-S129.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S1",
+    "W3",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP22"
+  },
+  {
+   "id": 218,
+   "dien_giai": "Nếu bạn ưu tiên hãng Mutosi, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Mutosi MP-S129.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S2",
+    "W3",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP22"
+  },
+  {
+   "id": 219,
+   "dien_giai": "Nếu bạn ưu tiên hãng Mutosi, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Mutosi MP-S129.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S3",
+    "W3",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP22"
+  },
+  {
+   "id": 220,
+   "dien_giai": "Nếu bạn ưu tiên hãng Mutosi, ngân sách trên 5 triệu đồng, chưa xác định số người sử dụng, chưa xác định nguồn nước đầu vào, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Mutosi MP-S129.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S0",
+    "W0",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP22"
+  },
+  {
+   "id": 221,
+   "dien_giai": "Nếu bạn ưu tiên hãng Mutosi, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, chưa có yêu cầu cụ thể về vị trí lắp đặt, cần lọc nước uống, chưa có yêu cầu cụ thể về công nghệ lọc, không có yêu cầu cụ thể về bảo trì và mong muốn máy có không yêu cầu cụ thể về số vòi/chức năng thì nên tham khảo máy lọc nước Mutosi MP-U28H.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S1",
+    "W1",
+    "VT0",
+    "NC1",
+    "CN0",
+    "BT0",
+    "SV0"
+   ],
+   "kq": "SP23"
+  },
+  {
+   "id": 222,
+   "dien_giai": "Nếu bạn ưu tiên hãng Mutosi, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước máy, chưa có yêu cầu cụ thể về vị trí lắp đặt, cần lọc nước uống, chưa có yêu cầu cụ thể về công nghệ lọc, không có yêu cầu cụ thể về bảo trì và mong muốn máy có không yêu cầu cụ thể về số vòi/chức năng thì nên tham khảo máy lọc nước Mutosi MP-U28H.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S2",
+    "W1",
+    "VT0",
+    "NC1",
+    "CN0",
+    "BT0",
+    "SV0"
+   ],
+   "kq": "SP23"
+  },
+  {
+   "id": 223,
+   "dien_giai": "Nếu bạn ưu tiên hãng Mutosi, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước máy, chưa có yêu cầu cụ thể về vị trí lắp đặt, cần lọc nước uống, chưa có yêu cầu cụ thể về công nghệ lọc, không có yêu cầu cụ thể về bảo trì và mong muốn máy có không yêu cầu cụ thể về số vòi/chức năng thì nên tham khảo máy lọc nước Mutosi MP-U28H.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S3",
+    "W1",
+    "VT0",
+    "NC1",
+    "CN0",
+    "BT0",
+    "SV0"
+   ],
+   "kq": "SP23"
+  },
+  {
+   "id": 224,
+   "dien_giai": "Nếu bạn ưu tiên hãng Mutosi, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước giếng, chưa có yêu cầu cụ thể về vị trí lắp đặt, cần lọc nước uống, chưa có yêu cầu cụ thể về công nghệ lọc, không có yêu cầu cụ thể về bảo trì và mong muốn máy có không yêu cầu cụ thể về số vòi/chức năng thì nên tham khảo máy lọc nước Mutosi MP-U28H.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S1",
+    "W2",
+    "VT0",
+    "NC1",
+    "CN0",
+    "BT0",
+    "SV0"
+   ],
+   "kq": "SP23"
+  },
+  {
+   "id": 225,
+   "dien_giai": "Nếu bạn ưu tiên hãng Mutosi, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước giếng, chưa có yêu cầu cụ thể về vị trí lắp đặt, cần lọc nước uống, chưa có yêu cầu cụ thể về công nghệ lọc, không có yêu cầu cụ thể về bảo trì và mong muốn máy có không yêu cầu cụ thể về số vòi/chức năng thì nên tham khảo máy lọc nước Mutosi MP-U28H.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S2",
+    "W2",
+    "VT0",
+    "NC1",
+    "CN0",
+    "BT0",
+    "SV0"
+   ],
+   "kq": "SP23"
+  },
+  {
+   "id": 226,
+   "dien_giai": "Nếu bạn ưu tiên hãng Mutosi, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước giếng, chưa có yêu cầu cụ thể về vị trí lắp đặt, cần lọc nước uống, chưa có yêu cầu cụ thể về công nghệ lọc, không có yêu cầu cụ thể về bảo trì và mong muốn máy có không yêu cầu cụ thể về số vòi/chức năng thì nên tham khảo máy lọc nước Mutosi MP-U28H.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S3",
+    "W2",
+    "VT0",
+    "NC1",
+    "CN0",
+    "BT0",
+    "SV0"
+   ],
+   "kq": "SP23"
+  },
+  {
+   "id": 227,
+   "dien_giai": "Nếu bạn ưu tiên hãng Mutosi, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nguồn nước khác, chưa có yêu cầu cụ thể về vị trí lắp đặt, cần lọc nước uống, chưa có yêu cầu cụ thể về công nghệ lọc, không có yêu cầu cụ thể về bảo trì và mong muốn máy có không yêu cầu cụ thể về số vòi/chức năng thì nên tham khảo máy lọc nước Mutosi MP-U28H.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S1",
+    "W3",
+    "VT0",
+    "NC1",
+    "CN0",
+    "BT0",
+    "SV0"
+   ],
+   "kq": "SP23"
+  },
+  {
+   "id": 228,
+   "dien_giai": "Nếu bạn ưu tiên hãng Mutosi, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nguồn nước khác, chưa có yêu cầu cụ thể về vị trí lắp đặt, cần lọc nước uống, chưa có yêu cầu cụ thể về công nghệ lọc, không có yêu cầu cụ thể về bảo trì và mong muốn máy có không yêu cầu cụ thể về số vòi/chức năng thì nên tham khảo máy lọc nước Mutosi MP-U28H.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S2",
+    "W3",
+    "VT0",
+    "NC1",
+    "CN0",
+    "BT0",
+    "SV0"
+   ],
+   "kq": "SP23"
+  },
+  {
+   "id": 229,
+   "dien_giai": "Nếu bạn ưu tiên hãng Mutosi, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nguồn nước khác, chưa có yêu cầu cụ thể về vị trí lắp đặt, cần lọc nước uống, chưa có yêu cầu cụ thể về công nghệ lọc, không có yêu cầu cụ thể về bảo trì và mong muốn máy có không yêu cầu cụ thể về số vòi/chức năng thì nên tham khảo máy lọc nước Mutosi MP-U28H.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S3",
+    "W3",
+    "VT0",
+    "NC1",
+    "CN0",
+    "BT0",
+    "SV0"
+   ],
+   "kq": "SP23"
+  },
+  {
+   "id": 230,
+   "dien_giai": "Nếu bạn ưu tiên hãng Mutosi, ngân sách trên 5 triệu đồng, chưa xác định số người sử dụng, chưa xác định nguồn nước đầu vào, chưa có yêu cầu cụ thể về vị trí lắp đặt, cần lọc nước uống, chưa có yêu cầu cụ thể về công nghệ lọc, không có yêu cầu cụ thể về bảo trì và mong muốn máy có không yêu cầu cụ thể về số vòi/chức năng thì nên tham khảo máy lọc nước Mutosi MP-U28H.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S0",
+    "W0",
+    "VT0",
+    "NC1",
+    "CN0",
+    "BT0",
+    "SV0"
+   ],
+   "kq": "SP23"
+  },
+  {
+   "id": 231,
+   "dien_giai": "Nếu bạn ưu tiên hãng Mutosi, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, chưa có yêu cầu cụ thể về vị trí lắp đặt, cần lọc nước uống, chưa có yêu cầu cụ thể về công nghệ lọc, không có yêu cầu cụ thể về bảo trì và mong muốn máy có tổ hợp số vòi/chức năng khác thì nên tham khảo máy lọc nước Mutosi MP-P88N.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S1",
+    "W1",
+    "VT0",
+    "NC1",
+    "CN0",
+    "BT0",
+    "SV8"
+   ],
+   "kq": "SP24"
+  },
+  {
+   "id": 232,
+   "dien_giai": "Nếu bạn ưu tiên hãng Mutosi, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước máy, chưa có yêu cầu cụ thể về vị trí lắp đặt, cần lọc nước uống, chưa có yêu cầu cụ thể về công nghệ lọc, không có yêu cầu cụ thể về bảo trì và mong muốn máy có tổ hợp số vòi/chức năng khác thì nên tham khảo máy lọc nước Mutosi MP-P88N.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S2",
+    "W1",
+    "VT0",
+    "NC1",
+    "CN0",
+    "BT0",
+    "SV8"
+   ],
+   "kq": "SP24"
+  },
+  {
+   "id": 233,
+   "dien_giai": "Nếu bạn ưu tiên hãng Mutosi, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước máy, chưa có yêu cầu cụ thể về vị trí lắp đặt, cần lọc nước uống, chưa có yêu cầu cụ thể về công nghệ lọc, không có yêu cầu cụ thể về bảo trì và mong muốn máy có tổ hợp số vòi/chức năng khác thì nên tham khảo máy lọc nước Mutosi MP-P88N.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S3",
+    "W1",
+    "VT0",
+    "NC1",
+    "CN0",
+    "BT0",
+    "SV8"
+   ],
+   "kq": "SP24"
+  },
+  {
+   "id": 234,
+   "dien_giai": "Nếu bạn ưu tiên hãng Mutosi, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước giếng, chưa có yêu cầu cụ thể về vị trí lắp đặt, cần lọc nước uống, chưa có yêu cầu cụ thể về công nghệ lọc, không có yêu cầu cụ thể về bảo trì và mong muốn máy có tổ hợp số vòi/chức năng khác thì nên tham khảo máy lọc nước Mutosi MP-P88N.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S1",
+    "W2",
+    "VT0",
+    "NC1",
+    "CN0",
+    "BT0",
+    "SV8"
+   ],
+   "kq": "SP24"
+  },
+  {
+   "id": 235,
+   "dien_giai": "Nếu bạn ưu tiên hãng Mutosi, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước giếng, chưa có yêu cầu cụ thể về vị trí lắp đặt, cần lọc nước uống, chưa có yêu cầu cụ thể về công nghệ lọc, không có yêu cầu cụ thể về bảo trì và mong muốn máy có tổ hợp số vòi/chức năng khác thì nên tham khảo máy lọc nước Mutosi MP-P88N.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S2",
+    "W2",
+    "VT0",
+    "NC1",
+    "CN0",
+    "BT0",
+    "SV8"
+   ],
+   "kq": "SP24"
+  },
+  {
+   "id": 236,
+   "dien_giai": "Nếu bạn ưu tiên hãng Mutosi, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước giếng, chưa có yêu cầu cụ thể về vị trí lắp đặt, cần lọc nước uống, chưa có yêu cầu cụ thể về công nghệ lọc, không có yêu cầu cụ thể về bảo trì và mong muốn máy có tổ hợp số vòi/chức năng khác thì nên tham khảo máy lọc nước Mutosi MP-P88N.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S3",
+    "W2",
+    "VT0",
+    "NC1",
+    "CN0",
+    "BT0",
+    "SV8"
+   ],
+   "kq": "SP24"
+  },
+  {
+   "id": 237,
+   "dien_giai": "Nếu bạn ưu tiên hãng Mutosi, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nguồn nước khác, chưa có yêu cầu cụ thể về vị trí lắp đặt, cần lọc nước uống, chưa có yêu cầu cụ thể về công nghệ lọc, không có yêu cầu cụ thể về bảo trì và mong muốn máy có tổ hợp số vòi/chức năng khác thì nên tham khảo máy lọc nước Mutosi MP-P88N.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S1",
+    "W3",
+    "VT0",
+    "NC1",
+    "CN0",
+    "BT0",
+    "SV8"
+   ],
+   "kq": "SP24"
+  },
+  {
+   "id": 238,
+   "dien_giai": "Nếu bạn ưu tiên hãng Mutosi, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nguồn nước khác, chưa có yêu cầu cụ thể về vị trí lắp đặt, cần lọc nước uống, chưa có yêu cầu cụ thể về công nghệ lọc, không có yêu cầu cụ thể về bảo trì và mong muốn máy có tổ hợp số vòi/chức năng khác thì nên tham khảo máy lọc nước Mutosi MP-P88N.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S2",
+    "W3",
+    "VT0",
+    "NC1",
+    "CN0",
+    "BT0",
+    "SV8"
+   ],
+   "kq": "SP24"
+  },
+  {
+   "id": 239,
+   "dien_giai": "Nếu bạn ưu tiên hãng Mutosi, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nguồn nước khác, chưa có yêu cầu cụ thể về vị trí lắp đặt, cần lọc nước uống, chưa có yêu cầu cụ thể về công nghệ lọc, không có yêu cầu cụ thể về bảo trì và mong muốn máy có tổ hợp số vòi/chức năng khác thì nên tham khảo máy lọc nước Mutosi MP-P88N.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S3",
+    "W3",
+    "VT0",
+    "NC1",
+    "CN0",
+    "BT0",
+    "SV8"
+   ],
+   "kq": "SP24"
+  },
+  {
+   "id": 240,
+   "dien_giai": "Nếu bạn ưu tiên hãng Mutosi, ngân sách trên 5 triệu đồng, chưa xác định số người sử dụng, chưa xác định nguồn nước đầu vào, chưa có yêu cầu cụ thể về vị trí lắp đặt, cần lọc nước uống, chưa có yêu cầu cụ thể về công nghệ lọc, không có yêu cầu cụ thể về bảo trì và mong muốn máy có tổ hợp số vòi/chức năng khác thì nên tham khảo máy lọc nước Mutosi MP-P88N.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S0",
+    "W0",
+    "VT0",
+    "NC1",
+    "CN0",
+    "BT0",
+    "SV8"
+   ],
+   "kq": "SP24"
+  },
+  {
+   "id": 241,
+   "dien_giai": "Nếu bạn ưu tiên hãng Korihome, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, chưa có yêu cầu cụ thể về công nghệ lọc, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và nguội thì nên tham khảo máy lọc nước Korihome WPK-915.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S1",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN0",
+    "BT0",
+    "SV4"
+   ],
+   "kq": "SP25"
+  },
+  {
+   "id": 242,
+   "dien_giai": "Nếu bạn ưu tiên hãng Korihome, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, chưa có yêu cầu cụ thể về công nghệ lọc, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và nguội thì nên tham khảo máy lọc nước Korihome WPK-915.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S2",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN0",
+    "BT0",
+    "SV4"
+   ],
+   "kq": "SP25"
+  },
+  {
+   "id": 243,
+   "dien_giai": "Nếu bạn ưu tiên hãng Korihome, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, chưa có yêu cầu cụ thể về công nghệ lọc, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và nguội thì nên tham khảo máy lọc nước Korihome WPK-915.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S3",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN0",
+    "BT0",
+    "SV4"
+   ],
+   "kq": "SP25"
+  },
+  {
+   "id": 244,
+   "dien_giai": "Nếu bạn ưu tiên hãng Korihome, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, chưa có yêu cầu cụ thể về công nghệ lọc, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và nguội thì nên tham khảo máy lọc nước Korihome WPK-915.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S1",
+    "W2",
+    "VT3",
+    "NC2",
+    "CN0",
+    "BT0",
+    "SV4"
+   ],
+   "kq": "SP25"
+  },
+  {
+   "id": 245,
+   "dien_giai": "Nếu bạn ưu tiên hãng Korihome, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, chưa có yêu cầu cụ thể về công nghệ lọc, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và nguội thì nên tham khảo máy lọc nước Korihome WPK-915.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S2",
+    "W2",
+    "VT3",
+    "NC2",
+    "CN0",
+    "BT0",
+    "SV4"
+   ],
+   "kq": "SP25"
+  },
+  {
+   "id": 246,
+   "dien_giai": "Nếu bạn ưu tiên hãng Korihome, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, chưa có yêu cầu cụ thể về công nghệ lọc, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và nguội thì nên tham khảo máy lọc nước Korihome WPK-915.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S3",
+    "W2",
+    "VT3",
+    "NC2",
+    "CN0",
+    "BT0",
+    "SV4"
+   ],
+   "kq": "SP25"
+  },
+  {
+   "id": 247,
+   "dien_giai": "Nếu bạn ưu tiên hãng Korihome, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, chưa có yêu cầu cụ thể về công nghệ lọc, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và nguội thì nên tham khảo máy lọc nước Korihome WPK-915.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S1",
+    "W3",
+    "VT3",
+    "NC2",
+    "CN0",
+    "BT0",
+    "SV4"
+   ],
+   "kq": "SP25"
+  },
+  {
+   "id": 248,
+   "dien_giai": "Nếu bạn ưu tiên hãng Korihome, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, chưa có yêu cầu cụ thể về công nghệ lọc, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và nguội thì nên tham khảo máy lọc nước Korihome WPK-915.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S2",
+    "W3",
+    "VT3",
+    "NC2",
+    "CN0",
+    "BT0",
+    "SV4"
+   ],
+   "kq": "SP25"
+  },
+  {
+   "id": 249,
+   "dien_giai": "Nếu bạn ưu tiên hãng Korihome, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, chưa có yêu cầu cụ thể về công nghệ lọc, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và nguội thì nên tham khảo máy lọc nước Korihome WPK-915.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S3",
+    "W3",
+    "VT3",
+    "NC2",
+    "CN0",
+    "BT0",
+    "SV4"
+   ],
+   "kq": "SP25"
+  },
+  {
+   "id": 250,
+   "dien_giai": "Nếu bạn ưu tiên hãng Korihome, ngân sách trên 5 triệu đồng, chưa xác định số người sử dụng, chưa xác định nguồn nước đầu vào, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, chưa có yêu cầu cụ thể về công nghệ lọc, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và nguội thì nên tham khảo máy lọc nước Korihome WPK-915.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S0",
+    "W0",
+    "VT3",
+    "NC2",
+    "CN0",
+    "BT0",
+    "SV4"
+   ],
+   "kq": "SP25"
+  },
+  {
+   "id": 251,
+   "dien_giai": "Nếu bạn ưu tiên hãng Hòa Phát, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và nguội thì nên tham khảo máy lọc nước Hòa Phát HPN669.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S1",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV4"
+   ],
+   "kq": "SP26"
+  },
+  {
+   "id": 252,
+   "dien_giai": "Nếu bạn ưu tiên hãng Hòa Phát, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và nguội thì nên tham khảo máy lọc nước Hòa Phát HPN669.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S2",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV4"
+   ],
+   "kq": "SP26"
+  },
+  {
+   "id": 253,
+   "dien_giai": "Nếu bạn ưu tiên hãng Hòa Phát, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và nguội thì nên tham khảo máy lọc nước Hòa Phát HPN669.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S3",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV4"
+   ],
+   "kq": "SP26"
+  },
+  {
+   "id": 254,
+   "dien_giai": "Nếu bạn ưu tiên hãng Hòa Phát, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và nguội thì nên tham khảo máy lọc nước Hòa Phát HPN669.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S1",
+    "W2",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV4"
+   ],
+   "kq": "SP26"
+  },
+  {
+   "id": 255,
+   "dien_giai": "Nếu bạn ưu tiên hãng Hòa Phát, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và nguội thì nên tham khảo máy lọc nước Hòa Phát HPN669.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S2",
+    "W2",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV4"
+   ],
+   "kq": "SP26"
+  },
+  {
+   "id": 256,
+   "dien_giai": "Nếu bạn ưu tiên hãng Hòa Phát, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và nguội thì nên tham khảo máy lọc nước Hòa Phát HPN669.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S3",
+    "W2",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV4"
+   ],
+   "kq": "SP26"
+  },
+  {
+   "id": 257,
+   "dien_giai": "Nếu bạn ưu tiên hãng Hòa Phát, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và nguội thì nên tham khảo máy lọc nước Hòa Phát HPN669.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S1",
+    "W3",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV4"
+   ],
+   "kq": "SP26"
+  },
+  {
+   "id": 258,
+   "dien_giai": "Nếu bạn ưu tiên hãng Hòa Phát, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và nguội thì nên tham khảo máy lọc nước Hòa Phát HPN669.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S2",
+    "W3",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV4"
+   ],
+   "kq": "SP26"
+  },
+  {
+   "id": 259,
+   "dien_giai": "Nếu bạn ưu tiên hãng Hòa Phát, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và nguội thì nên tham khảo máy lọc nước Hòa Phát HPN669.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S3",
+    "W3",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV4"
+   ],
+   "kq": "SP26"
+  },
+  {
+   "id": 260,
+   "dien_giai": "Nếu bạn ưu tiên hãng Hòa Phát, ngân sách trên 5 triệu đồng, chưa xác định số người sử dụng, chưa xác định nguồn nước đầu vào, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và mong muốn máy có 2 vòi với nước nóng, lạnh và nguội thì nên tham khảo máy lọc nước Hòa Phát HPN669.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S0",
+    "W0",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV4"
+   ],
+   "kq": "SP26"
+  },
+  {
+   "id": 261,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước giếng, lắp đặt dưới bồn rửa, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và cần cấu hình vòi 1 vòi nước Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG14K6H1.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S1",
+    "W2",
+    "VT2",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV5"
+   ],
+   "kq": "SP1"
+  },
+  {
+   "id": 262,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và cần cấu hình vòi 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG14S6H3.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S2",
+    "W2",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP2"
+  },
+  {
+   "id": 263,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và cần cấu hình vòi 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG13S21H3.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S3",
+    "W2",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP3"
+  },
+  {
+   "id": 264,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và cần cấu hình vòi 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG12S3H3.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S1",
+    "W3",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP4"
+  },
+  {
+   "id": 265,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nguồn nước khác, lắp đặt để bàn, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và cần cấu hình vòi 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Kangaroo KG100HU.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S2",
+    "W3",
+    "VT1",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP5"
+  },
+  {
+   "id": 266,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nguồn nước khác, lắp đặt dạng tủ đứng/đặt sàn, cần lọc nước uống, ưu tiên công nghệ RO, ưu tiên máy dễ thay lõi lọc và cần cấu hình vòi 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Karofi KAQ-C28.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S3",
+    "W3",
+    "VT3",
+    "NC1",
+    "CN1",
+    "BT1",
+    "SV1"
+   ],
+   "kq": "SP6"
+  },
+  {
+   "id": 267,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, chưa xác định số người sử dụng, chưa xác định nguồn nước đầu vào, lắp đặt dưới bồn rửa, ưu tiên tiết kiệm diện tích, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và cần cấu hình vòi 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Karofi KAQ-U50K.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S0",
+    "W0",
+    "VT2",
+    "NC3",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP8"
+  },
+  {
+   "id": 268,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, lắp đặt dưới bồn rửa, ưu tiên tiết kiệm diện tích, ưu tiên công nghệ RO, ưu tiên máy dễ thay lõi lọc và cần cấu hình vòi 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Karofi KAQ-U96 PRO.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S1",
+    "W1",
+    "VT2",
+    "NC3",
+    "CN1",
+    "BT1",
+    "SV1"
+   ],
+   "kq": "SP9"
+  },
+  {
+   "id": 269,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và cần cấu hình vòi 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Karofi KAD-L55.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S2",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP10"
+  },
+  {
+   "id": 270,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và cần cấu hình vòi 2 vòi với nước nóng, lạnh, RO và Hydrogen thì nên tham khảo máy lọc nước Sunhouse SHA76210KL.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S3",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV7"
+   ],
+   "kq": "SP11"
+  },
+  {
+   "id": 271,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và cần cấu hình vòi tổ hợp số vòi/chức năng khác thì nên tham khảo máy lọc nước Sunhouse SHA76658SH.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S1",
+    "W2",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV8"
+   ],
+   "kq": "SP12"
+  },
+  {
+   "id": 272,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có từ 3–5 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và cần cấu hình vòi tổ hợp số vòi/chức năng khác thì nên tham khảo máy lọc nước Sunhouse SHA76668SH.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S2",
+    "W2",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV8"
+   ],
+   "kq": "SP13"
+  },
+  {
+   "id": 273,
+   "dien_giai": "Nếu bạn ưu tiên hãng Toshiba, ngân sách trên 5 triệu đồng, có trên 5 người sử dụng, sử dụng nước giếng, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và cần cấu hình vòi 2 vòi với nước nóng, lạnh và nguội thì nên tham khảo máy lọc nước Toshiba TWP-WA3SVN(K).",
+   "dk": [
+    "TH4",
+    "N3",
+    "S3",
+    "W2",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV4"
+   ],
+   "kq": "SP16"
+  },
+  {
+   "id": 274,
+   "dien_giai": "Nếu bạn ưu tiên hãng A. O. Smith, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nguồn nước khác, lắp đặt dưới bồn rửa, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và cần cấu hình vòi 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước A. O. Smith R400E.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S1",
+    "W3",
+    "VT2",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP18"
+  },
+  {
+   "id": 275,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, lắp đặt dưới bồn rửa, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và cần cấu hình vòi 1 vòi nước Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG14K6H1.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S1",
+    "W1",
+    "VT2",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV5"
+   ],
+   "kq": "SP1"
+  },
+  {
+   "id": 276,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và cần cấu hình vòi 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG14S6H3.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S1",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP2"
+  },
+  {
+   "id": 277,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và cần cấu hình vòi 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG13S21H3.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S1",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP3"
+  },
+  {
+   "id": 278,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và cần cấu hình vòi 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Kangaroo KG12S3H3.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S1",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP4"
+  },
+  {
+   "id": 279,
+   "dien_giai": "Nếu bạn ưu tiên hãng Kangaroo, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, lắp đặt để bàn, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và cần cấu hình vòi 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Kangaroo KG100HU.",
+   "dk": [
+    "TH1",
+    "N3",
+    "S1",
+    "W1",
+    "VT1",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP5"
+  },
+  {
+   "id": 280,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần lọc nước uống, ưu tiên công nghệ RO, ưu tiên máy dễ thay lõi lọc và cần cấu hình vòi 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Karofi KAQ-C28.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S1",
+    "W1",
+    "VT3",
+    "NC1",
+    "CN1",
+    "BT1",
+    "SV1"
+   ],
+   "kq": "SP6"
+  },
+  {
+   "id": 281,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và cần cấu hình vòi 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Karofi KAQ-D36.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S1",
+    "W1",
+    "VT3",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP7"
+  },
+  {
+   "id": 282,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, lắp đặt dưới bồn rửa, ưu tiên tiết kiệm diện tích, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và cần cấu hình vòi 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Karofi KAQ-U50K.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S1",
+    "W1",
+    "VT2",
+    "NC3",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP8"
+  },
+  {
+   "id": 283,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, lắp đặt dưới bồn rửa, ưu tiên tiết kiệm diện tích, ưu tiên công nghệ RO, ưu tiên máy dễ thay lõi lọc và cần cấu hình vòi 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước Karofi KAQ-U96 PRO.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S1",
+    "W1",
+    "VT2",
+    "NC3",
+    "CN1",
+    "BT1",
+    "SV1"
+   ],
+   "kq": "SP9"
+  },
+  {
+   "id": 284,
+   "dien_giai": "Nếu bạn ưu tiên hãng Karofi, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và cần cấu hình vòi 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Karofi KAD-L55.",
+   "dk": [
+    "TH2",
+    "N3",
+    "S1",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP10"
+  },
+  {
+   "id": 285,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và cần cấu hình vòi 2 vòi với nước nóng, lạnh, RO và Hydrogen thì nên tham khảo máy lọc nước Sunhouse SHA76210KL.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S1",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV7"
+   ],
+   "kq": "SP11"
+  },
+  {
+   "id": 286,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và cần cấu hình vòi tổ hợp số vòi/chức năng khác thì nên tham khảo máy lọc nước Sunhouse SHA76658SH.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S1",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV8"
+   ],
+   "kq": "SP12"
+  },
+  {
+   "id": 287,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và cần cấu hình vòi tổ hợp số vòi/chức năng khác thì nên tham khảo máy lọc nước Sunhouse SHA76668SH.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S1",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV8"
+   ],
+   "kq": "SP13"
+  },
+  {
+   "id": 288,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và cần cấu hình vòi 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Sunhouse SHA8606U.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S1",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP14"
+  },
+  {
+   "id": 289,
+   "dien_giai": "Nếu bạn ưu tiên hãng Sunhouse, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và cần cấu hình vòi 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Sunhouse SHA8879K.",
+   "dk": [
+    "TH3",
+    "N3",
+    "S1",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP15"
+  },
+  {
+   "id": 290,
+   "dien_giai": "Nếu bạn ưu tiên hãng Toshiba, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và cần cấu hình vòi 2 vòi với nước nóng, lạnh và nguội thì nên tham khảo máy lọc nước Toshiba TWP-WA3SVN(K).",
+   "dk": [
+    "TH4",
+    "N3",
+    "S1",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV4"
+   ],
+   "kq": "SP16"
+  },
+  {
+   "id": 291,
+   "dien_giai": "Nếu bạn ưu tiên hãng Toshiba, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và cần cấu hình vòi 2 vòi với nước nóng, lạnh và nguội thì nên tham khảo máy lọc nước Toshiba TWP-NA1SVN(K).",
+   "dk": [
+    "TH4",
+    "N3",
+    "S1",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV4"
+   ],
+   "kq": "SP17"
+  },
+  {
+   "id": 292,
+   "dien_giai": "Nếu bạn ưu tiên hãng A. O. Smith, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, lắp đặt dưới bồn rửa, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và cần cấu hình vòi 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước A. O. Smith R400E.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S1",
+    "W1",
+    "VT2",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP18"
+  },
+  {
+   "id": 293,
+   "dien_giai": "Nếu bạn ưu tiên hãng A. O. Smith, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, lắp đặt dưới bồn rửa, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và cần cấu hình vòi 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước A. O. Smith R700Slim.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S1",
+    "W1",
+    "VT2",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP19"
+  },
+  {
+   "id": 294,
+   "dien_giai": "Nếu bạn ưu tiên hãng A. O. Smith, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, lắp đặt dưới bồn rửa, cần lọc nước uống, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và cần cấu hình vòi 1 vòi nước nguội sau lọc thì nên tham khảo máy lọc nước A. O. Smith S600.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S1",
+    "W1",
+    "VT2",
+    "NC1",
+    "CN1",
+    "BT0",
+    "SV1"
+   ],
+   "kq": "SP20"
+  },
+  {
+   "id": 295,
+   "dien_giai": "Nếu bạn ưu tiên hãng Mutosi, ngân sách từ 3 đến 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, chưa có yêu cầu cụ thể về vị trí lắp đặt, cần lọc nước uống, chưa có yêu cầu cụ thể về công nghệ lọc, không có yêu cầu cụ thể về bảo trì và cần cấu hình vòi không yêu cầu cụ thể về số vòi/chức năng thì nên tham khảo máy lọc nước Mutosi MP-1101.",
+   "dk": [
+    "TH5",
+    "N2",
+    "S1",
+    "W1",
+    "VT0",
+    "NC1",
+    "CN0",
+    "BT0",
+    "SV0"
+   ],
+   "kq": "SP21"
+  },
+  {
+   "id": 296,
+   "dien_giai": "Nếu bạn ưu tiên hãng Mutosi, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và cần cấu hình vòi 2 vòi với nước nóng, lạnh và Hydrogen thì nên tham khảo máy lọc nước Mutosi MP-S129.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S1",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV6"
+   ],
+   "kq": "SP22"
+  },
+  {
+   "id": 297,
+   "dien_giai": "Nếu bạn ưu tiên hãng Mutosi, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, chưa có yêu cầu cụ thể về vị trí lắp đặt, cần lọc nước uống, chưa có yêu cầu cụ thể về công nghệ lọc, không có yêu cầu cụ thể về bảo trì và cần cấu hình vòi không yêu cầu cụ thể về số vòi/chức năng thì nên tham khảo máy lọc nước Mutosi MP-U28H.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S1",
+    "W1",
+    "VT0",
+    "NC1",
+    "CN0",
+    "BT0",
+    "SV0"
+   ],
+   "kq": "SP23"
+  },
+  {
+   "id": 298,
+   "dien_giai": "Nếu bạn ưu tiên hãng Mutosi, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, chưa có yêu cầu cụ thể về vị trí lắp đặt, cần lọc nước uống, chưa có yêu cầu cụ thể về công nghệ lọc, không có yêu cầu cụ thể về bảo trì và cần cấu hình vòi tổ hợp số vòi/chức năng khác thì nên tham khảo máy lọc nước Mutosi MP-P88N.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S1",
+    "W1",
+    "VT0",
+    "NC1",
+    "CN0",
+    "BT0",
+    "SV8"
+   ],
+   "kq": "SP24"
+  },
+  {
+   "id": 299,
+   "dien_giai": "Nếu bạn ưu tiên hãng Korihome, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, chưa có yêu cầu cụ thể về công nghệ lọc, không có yêu cầu cụ thể về bảo trì và cần cấu hình vòi 2 vòi với nước nóng, lạnh và nguội thì nên tham khảo máy lọc nước Korihome WPK-915.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S1",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN0",
+    "BT0",
+    "SV4"
+   ],
+   "kq": "SP25"
+  },
+  {
+   "id": 300,
+   "dien_giai": "Nếu bạn ưu tiên hãng Hòa Phát, ngân sách trên 5 triệu đồng, có từ 1–2 người sử dụng, sử dụng nước máy, lắp đặt dạng tủ đứng/đặt sàn, cần sử dụng nước nóng/lạnh, ưu tiên công nghệ RO, không có yêu cầu cụ thể về bảo trì và cần cấu hình vòi 2 vòi với nước nóng, lạnh và nguội thì nên tham khảo máy lọc nước Hòa Phát HPN669.",
+   "dk": [
+    "TH5",
+    "N3",
+    "S1",
+    "W1",
+    "VT3",
+    "NC2",
+    "CN1",
+    "BT0",
+    "SV4"
+   ],
+   "kq": "SP26"
+  }
+ ]
+}

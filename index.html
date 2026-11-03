@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+{% block content %}
+<section class="hero">
+  <h1>Tìm máy lọc nước phù hợp với gia đình bạn</h1>
+  <p>Trả lời 9 câu hỏi ngắn, hệ chuyên gia sẽ suy diễn trên 300 luật để gợi ý model phù hợp nhất. Câu nào chưa rõ, cứ để “Chưa xác định”.</p>
+</section>
+<form class="card form" method="post" action="{{ url_for('advise') }}">
+  <div class="grid">
+  {% for g in groups %}
+    <fieldset>
+      <legend>{{ loop.index }}. {{ facts[g].ten }}</legend>
+      {% for o in facts[g].opts %}
+      <label class="opt">
+        <input type="radio" name="{{ g }}" value="{{ o.ma }}" {% if o.ma.endswith('0') %}checked{% endif %}>
+        <span>{{ o.nhan }}</span>
+      </label>
+      {% endfor %}
+    </fieldset>
+  {% endfor %}
+  </div>
+  <div class="actions">
+    <button type="submit" class="btn">Tư vấn cho tôi</button>
+    <button type="reset" class="btn ghost">Đặt lại</button>
+  </div>
+</form>
+{% endblock %}

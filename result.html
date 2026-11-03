@@ -1,0 +1,44 @@
+{% extends 'base.html' %}
+{% block title %}Kết quả tư vấn{% endblock %}
+{% block content %}
+<h1>Kết quả tư vấn</h1>
+<div class="card">
+  <h3>Yêu cầu của bạn</h3>
+  <p class="chips">
+  {% for g in groups %}{% if chosen.get(g) %}<span class="chip {% if chosen[g].endswith('0') %}muted{% endif %}"><b>{{ chosen[g] }}</b> {{ label[chosen[g]] }}</span>{% endif %}{% endfor %}
+  </p>
+</div>
+{% if not results %}
+<div class="card warn">Chưa có máy nào khớp đủ tiêu chí. Hãy thử nới bớt yêu cầu (chọn “Chưa xác định”).</div>
+{% else %}
+  {% if has_exact %}
+  <p class="note ok">Có luật khớp hoàn toàn với yêu cầu của bạn.</p>
+  {% else %}
+  <p class="note">Không có luật nào khớp 100%, dưới đây là các máy gần nhất với yêu cầu của bạn.</p>
+  {% endif %}
+  {% for e in results %}
+  {% set p = products[e.rule.kq] %}
+  <article class="card result">
+    {% if p.img %}<img src="{{ url_for('static', filename='img/' ~ p.img[0]) }}" alt="{{ p.ten }}">{% endif %}
+    <div>
+      <span class="badge">{{ 'Khớp hoàn toàn' if e.exact else 'Khớp ' ~ e.matched ~ '/' ~ e.total ~ ' tiêu chí' }}</span>
+      <h2>{{ loop.index }}. {{ p.ten }}</h2>
+      <p>{{ p.mo_ta }}</p>
+      <ul class="spec">
+        <li><b>Ngân sách:</b> {{ p.ngan_sach }}</li>
+        <li><b>Số người:</b> {{ p.so_nguoi }}</li>
+        <li><b>Vị trí:</b> {{ p.vi_tri }}</li>
+        <li><b>Công nghệ:</b> {{ p.cong_nghe }}</li>
+        <li><b>Vòi nước:</b> {{ p.so_voi }}</li>
+      </ul>
+      <details><summary>Vì sao hệ thống gợi ý máy này? (luật {{ e.rule.id }})</summary>
+        <p class="rule">{{ e.rule.dien_giai }}</p>
+        <code>{{ e.rule.dk | join(' ⋀ ') }} → {{ e.rule.kq }}</code>
+      </details>
+      <a href="{{ url_for('product', sp=p.id) }}">Xem chi tiết →</a>
+    </div>
+  </article>
+  {% endfor %}
+{% endif %}
+<p><a class="btn ghost" href="{{ url_for('index') }}">← Tư vấn lại</a></p>
+{% endblock %}
